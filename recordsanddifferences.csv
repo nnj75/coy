@@ -1,0 +1,1102 @@
+team,standing,percentage,season,diff_standing,diff_percentage
+"Utah Jazz",1,0.722,2021,5,0.111
+"Phoenix Suns",2,0.708,2021,8,0.242
+"Denver Nuggets",3,0.653,2021,0,0.023
+"Los Angeles Clippers",4,0.653,2021,-2,-0.028
+"Dallas Mavericks",5,0.583,2021,2,0.01
+"Portland Trail Blazers",6,0.583,2021,2,0.11
+"Los Angeles Lakers",7,0.583,2021,-6,-0.149
+"Memphis Grizzlies",8,0.528,2021,1,0.062
+"Golden State Warriors",9,0.542,2021,6,0.311
+"San Antonio Spurs",10,0.458,2021,1,0.007
+"New Orleans Pelicans",11,0.431,2021,2,0.014
+"Sacramento Kings",12,0.431,2021,0,0
+"Minnesota Timberwolves",13,0.319,2021,1,0.022
+"Oklahoma City Thunder",14,0.306,2021,-9,-0.305
+"Houston Rockets",15,0.236,2021,-11,-0.375
+"Philadelphia 76ers",1,0.681,2021,5,0.092
+"Brooklyn Nets",2,0.667,2021,5,0.181
+"Milwaukee Bucks",3,0.639,2021,-2,-0.128
+"New York Knicks",4,0.569,2021,8,0.251
+"Atlanta Hawks",5,0.569,2021,9,0.27
+"Miami Heat",6,0.556,2021,-1,-0.047
+"Boston Celtics",7,0.5,2021,-4,-0.167
+"Washington Wizards",8,0.472,2021,1,0.125
+"Indiana Pacers",9,0.472,2021,-5,-0.144
+"Charlotte Hornets",10,0.458,2021,0,0.104
+"Chicago Bulls",11,0.431,2021,0,0.093
+"Toronto Raptors",12,0.375,2021,-10,-0.361
+"Cleveland Cavaliers",13,0.306,2021,2,0.014
+"Orlando Magic",14,0.292,2021,-6,-0.16
+"Detroit Pistons",15,0.278,2021,-2,-0.025
+"Los Angeles Lakers",1,0.732,2020,9,0.281
+"Los Angeles Clippers",2,0.681,2020,6,0.096
+"Denver Nuggets",3,0.63,2020,-1,-0.029
+"Houston Rockets",4,0.611,2020,0,-0.035
+"Oklahoma City Thunder",5,0.611,2020,1,0.013
+"Utah Jazz",6,0.611,2020,-1,0.001
+"Dallas Mavericks",7,0.573,2020,7,0.171
+"Portland Trail Blazers",8,0.473,2020,-5,-0.173
+"Memphis Grizzlies",9,0.466,2020,3,0.064
+"Phoenix Suns",10,0.466,2020,5,0.234
+"San Antonio Spurs",11,0.451,2020,-4,-0.134
+"Sacramento Kings",12,0.431,2020,-3,-0.045
+"New Orleans Pelicans",13,0.417,2020,0,0.015
+"Minnesota Timberwolves",14,0.297,2020,-3,-0.142
+"Golden State Warriors",15,0.231,2020,-14,-0.464
+"Milwaukee Bucks",1,0.767,2020,0,0.035
+"Toronto Raptors",2,0.736,2020,0,0.029
+"Boston Celtics",3,0.667,2020,1,0.069
+"Indiana Pacers",4,0.616,2020,1,0.031
+"Miami Heat",5,0.603,2020,5,0.127
+"Philadelphia 76ers",6,0.589,2020,-3,-0.033
+"Brooklyn Nets",7,0.486,2020,-1,-0.026
+"Orlando Magic",8,0.452,2020,-1,-0.06
+"Washington Wizards",9,0.347,2020,2,-0.043
+"Charlotte Hornets",10,0.354,2020,-1,-0.122
+"Chicago Bulls",11,0.338,2020,2,0.07
+"New York Knicks",12,0.318,2020,3,0.111
+"Detroit Pistons",13,0.303,2020,-5,-0.197
+"Atlanta Hawks",14,0.299,2020,-2,-0.055
+"Cleveland Cavaliers",15,0.292,2020,-1,0.06
+"Golden State Warriors",1,0.695,2019,1,-0.012
+"Denver Nuggets",2,0.659,2019,7,0.098
+"Portland Trail Blazers",3,0.646,2019,0,0.048
+"Houston Rockets",4,0.646,2019,-3,-0.147
+"Utah Jazz",5,0.61,2019,0,0.025
+"Oklahoma City Thunder",6,0.598,2019,-2,0.013
+"San Antonio Spurs",7,0.585,2019,0,0.012
+"Los Angeles Clippers",8,0.585,2019,2,0.073
+"Sacramento Kings",9,0.476,2019,3,0.147
+"Los Angeles Lakers",10,0.451,2019,1,0.024
+"Minnesota Timberwolves",11,0.439,2019,-3,-0.134
+"Memphis Grizzlies",12,0.402,2019,2,0.134
+"New Orleans Pelicans",13,0.402,2019,-7,-0.183
+"Dallas Mavericks",14,0.402,2019,-1,0.109
+"Phoenix Suns",15,0.232,2019,0,-0.024
+"Milwaukee Bucks",1,0.732,2019,6,0.195
+"Toronto Raptors",2,0.707,2019,-1,-0.013
+"Philadelphia 76ers",3,0.622,2019,0,-0.012
+"Boston Celtics",4,0.598,2019,-2,-0.073
+"Indiana Pacers",5,0.585,2019,0,0
+"Brooklyn Nets",6,0.512,2019,6,0.171
+"Orlando Magic",7,0.512,2019,7,0.207
+"Detroit Pistons",8,0.5,2019,1,0.024
+"Charlotte Hornets",9,0.476,2019,1,0.037
+"Miami Heat",10,0.476,2019,-4,-0.061
+"Washington Wizards",11,0.39,2019,-3,-0.134
+"Atlanta Hawks",12,0.354,2019,3,0.061
+"Chicago Bulls",13,0.268,2019,0,-0.061
+"Cleveland Cavaliers",14,0.232,2019,-10,-0.378
+"New York Knicks",15,0.207,2019,-4,-0.147
+"Houston Rockets",1,0.793,2018,2,0.122
+"Golden State Warriors",2,0.707,2018,-1,-0.11
+"Portland Trail Blazers",3,0.598,2018,5,0.098
+"Oklahoma City Thunder",4,0.585,2018,2,0.012
+"Utah Jazz",5,0.585,2018,0,-0.037
+"New Orleans Pelicans",6,0.585,2018,4,0.17
+"San Antonio Spurs",7,0.573,2018,-5,-0.171
+"Minnesota Timberwolves",8,0.573,2018,5,0.195
+"Denver Nuggets",9,0.561,2018,0,0.073
+"Los Angeles Clippers",10,0.512,2018,-6,-0.11
+"Los Angeles Lakers",11,0.427,2018,3,0.11
+"Sacramento Kings",12,0.329,2018,0,-0.061
+"Dallas Mavericks",13,0.293,2018,-2,-0.109
+"Memphis Grizzlies",14,0.268,2018,-7,-0.256
+"Phoenix Suns",15,0.256,2018,0,-0.037
+"Toronto Raptors",1,0.72,2018,2,0.098
+"Boston Celtics",2,0.671,2018,-1,0.025
+"Philadelphia 76ers",3,0.634,2018,11,0.293
+"Cleveland Cavaliers",4,0.61,2018,-2,-0.012
+"Indiana Pacers",5,0.585,2018,2,0.073
+"Miami Heat",6,0.537,2018,3,0.037
+"Milwaukee Bucks",7,0.537,2018,-1,0.025
+"Washington Wizards",8,0.524,2018,-4,-0.074
+"Detroit Pistons",9,0.476,2018,1,0.025
+"Charlotte Hornets",10,0.439,2018,1,0
+"New York Knicks",11,0.354,2018,1,-0.024
+"Brooklyn Nets",12,0.341,2018,3,0.097
+"Chicago Bulls",13,0.329,2018,-5,-0.171
+"Orlando Magic",14,0.305,2018,-1,-0.049
+"Atlanta Hawks",15,0.293,2018,-10,-0.231
+"Golden State Warriors",1,0.817,2017,0,-0.073
+"San Antonio Spurs",2,0.744,2017,0,-0.073
+"Houston Rockets",3,0.671,2017,5,0.171
+"Los Angeles Clippers",4,0.622,2017,0,-0.024
+"Utah Jazz",5,0.622,2017,4,0.134
+"Oklahoma City Thunder",6,0.573,2017,-3,-0.098
+"Memphis Grizzlies",7,0.524,2017,0,0.012
+"Portland Trail Blazers",8,0.5,2017,-3,-0.037
+"Denver Nuggets",9,0.488,2017,2,0.086
+"New Orleans Pelicans",10,0.415,2017,2,0.049
+"Dallas Mavericks",11,0.402,2017,-5,-0.11
+"Sacramento Kings",12,0.39,2017,-2,-0.012
+"Minnesota Timberwolves",13,0.378,2017,0,0.024
+"Los Angeles Lakers",14,0.317,2017,1,0.11
+"Phoenix Suns",15,0.293,2017,-1,0.013
+"Boston Celtics",1,0.646,2017,4,0.061
+"Cleveland Cavaliers",2,0.622,2017,-1,-0.073
+"Toronto Raptors",3,0.622,2017,-1,-0.061
+"Washington Wizards",4,0.598,2017,6,0.098
+"Atlanta Hawks",5,0.524,2017,-1,-0.061
+"Milwaukee Bucks",6,0.512,2017,6,0.11
+"Indiana Pacers",7,0.512,2017,0,-0.037
+"Chicago Bulls",8,0.5,2017,1,-0.012
+"Miami Heat",9,0.5,2017,-6,-0.085
+"Detroit Pistons",10,0.451,2017,-2,-0.086
+"Charlotte Hornets",11,0.439,2017,-5,-0.146
+"New York Knicks",12,0.378,2017,1,-0.012
+"Orlando Magic",13,0.354,2017,-2,-0.073
+"Philadelphia 76ers",14,0.341,2017,1,0.219
+"Brooklyn Nets",15,0.244,2017,-1,-0.012
+"Golden State Warriors",1,0.89,2016,0,0.073
+"San Antonio Spurs",2,0.817,2016,4,0.146
+"Oklahoma City Thunder",3,0.671,2016,6,0.122
+"Los Angeles Clippers",4,0.646,2016,-1,-0.037
+"Portland Trail Blazers",5,0.537,2016,-1,-0.085
+"Dallas Mavericks",6,0.512,2016,1,-0.098
+"Memphis Grizzlies",7,0.512,2016,-2,-0.159
+"Houston Rockets",8,0.5,2016,-6,-0.183
+"Utah Jazz",9,0.488,2016,2,0.025
+"Sacramento Kings",10,0.402,2016,3,0.048
+"Denver Nuggets",11,0.402,2016,1,0.036
+"New Orleans Pelicans",12,0.366,2016,-4,-0.183
+"Minnesota Timberwolves",13,0.354,2016,2,0.159
+"Phoenix Suns",14,0.28,2016,-4,-0.196
+"Los Angeles Lakers",15,0.207,2016,-1,-0.049
+"Cleveland Cavaliers",1,0.695,2016,1,0.049
+"Toronto Raptors",2,0.683,2016,2,0.085
+"Miami Heat",3,0.585,2016,7,0.134
+"Atlanta Hawks",4,0.585,2016,-3,-0.147
+"Boston Celtics",5,0.585,2016,2,0.097
+"Charlotte Hornets",6,0.585,2016,5,0.183
+"Indiana Pacers",7,0.549,2016,2,0.086
+"Detroit Pistons",8,0.537,2016,4,0.147
+"Chicago Bulls",9,0.512,2016,-6,-0.098
+"Washington Wizards",10,0.5,2016,-5,-0.061
+"Orlando Magic",11,0.427,2016,2,0.122
+"Milwaukee Bucks",12,0.402,2016,-6,-0.098
+"New York Knicks",13,0.39,2016,2,0.183
+"Brooklyn Nets",14,0.256,2016,-6,-0.207
+"Philadelphia 76ers",15,0.122,2016,-1,-0.098
+"Golden State Warriors",1,0.817,2015,5,0.195
+"Houston Rockets",2,0.683,2015,2,0.024
+"Los Angeles Clippers",3,0.683,2015,0,-0.012
+"Portland Trail Blazers",4,0.622,2015,1,-0.037
+"Memphis Grizzlies",5,0.671,2015,2,0.061
+"San Antonio Spurs",6,0.671,2015,-5,-0.085
+"Dallas Mavericks",7,0.61,2015,1,0.012
+"New Orleans Pelicans",8,0.549,2015,4,0.134
+"Oklahoma City Thunder",9,0.549,2015,-7,-0.171
+"Phoenix Suns",10,0.476,2015,-1,-0.109
+"Utah Jazz",11,0.463,2015,4,0.158
+"Denver Nuggets",12,0.366,2015,-1,-0.073
+"Sacramento Kings",13,0.354,2015,0,0.013
+"Los Angeles Lakers",14,0.256,2015,0,-0.073
+"Minnesota Timberwolves",15,0.195,2015,-5,-0.293
+"Atlanta Hawks",1,0.732,2015,7,0.269
+"Cleveland Cavaliers",2,0.646,2015,8,0.244
+"Chicago Bulls",3,0.61,2015,1,0.025
+"Toronto Raptors",4,0.598,2015,-1,0.013
+"Washington Wizards",5,0.561,2015,0,0.024
+"Milwaukee Bucks",6,0.5,2015,9,0.317
+"Boston Celtics",7,0.488,2015,5,0.183
+"Brooklyn Nets",8,0.463,2015,-2,-0.074
+"Indiana Pacers",9,0.463,2015,-8,-0.22
+"Miami Heat",10,0.451,2015,-8,-0.208
+"Detroit Pistons",12,0.39,2015,-1,0.036
+"Orlando Magic",13,0.305,2015,0,0.025
+"Philadelphia 76ers",14,0.22,2015,0,-0.012
+"New York Knicks",15,0.207,2015,-6,-0.244
+"San Antonio Spurs",1,0.756,2014,1,0.049
+"Oklahoma City Thunder",2,0.72,2014,-1,-0.012
+"Los Angeles Clippers",3,0.695,2014,1,0.012
+"Houston Rockets",4,0.659,2014,4,0.11
+"Portland Trail Blazers",5,0.659,2014,6,0.257
+"Golden State Warriors",6,0.622,2014,0,0.049
+"Memphis Grizzlies",7,0.61,2014,-2,-0.073
+"Dallas Mavericks",8,0.598,2014,2,0.098
+"Phoenix Suns",9,0.585,2014,6,0.28
+"Minnesota Timberwolves",10,0.488,2014,2,0.11
+"Denver Nuggets",11,0.439,2014,-8,-0.256
+"Sacramento Kings",13,0.341,2014,0,0
+"Los Angeles Lakers",14,0.329,2014,-7,-0.22
+"Utah Jazz",15,0.305,2014,-6,-0.219
+"Indiana Pacers",1,0.683,2014,2,0.078
+"Miami Heat",2,0.659,2014,-1,-0.146
+"Toronto Raptors",3,0.585,2014,7,0.17
+"Chicago Bulls",4,0.585,2014,1,0.036
+"Washington Wizards",5,0.537,2014,7,0.183
+"Brooklyn Nets",6,0.537,2014,-2,-0.061
+"Charlotte Bobcats",7,0.524,2014,7,0.268
+"Atlanta Hawks",8,0.463,2014,-2,-0.074
+"New York Knicks",9,0.451,2014,-7,-0.208
+"Cleveland Cavaliers",10,0.402,2014,3,0.109
+"Detroit Pistons",11,0.354,2014,0,0
+"Boston Celtics",12,0.305,2014,-5,-0.201
+"Orlando Magic",13,0.28,2014,2,0.036
+"Philadelphia 76ers",14,0.232,2014,-5,-0.183
+"Milwaukee Bucks",15,0.183,2014,-7,-0.28
+"Oklahoma City Thunder",1,0.732,2013,1,0.02
+"San Antonio Spurs",2,0.707,2013,-1,-0.051
+"Denver Nuggets",3,0.695,2013,3,0.119
+"Los Angeles Clippers",4,0.683,2013,1,0.077
+"Memphis Grizzlies",5,0.683,2013,-1,0.062
+"Golden State Warriors",6,0.573,2013,7,0.225
+"Los Angeles Lakers",7,0.549,2013,-4,-0.072
+"Houston Rockets",8,0.549,2013,1,0.034
+"Utah Jazz",9,0.524,2013,-1,-0.021
+"Dallas Mavericks",10,0.5,2013,-3,-0.045
+"Portland Trail Blazers",11,0.402,2013,0,-0.022
+"Minnesota Timberwolves",12,0.378,2013,0,-0.016
+"Sacramento Kings",13,0.341,2013,1,0.008
+"New Orleans Hornets",14,0.329,2013,1,0.011
+"Phoenix Suns",15,0.305,2013,-5,-0.195
+"Miami Heat",1,0.805,2013,1,0.108
+"New York Knicks",2,0.659,2013,5,0.114
+"Indiana Pacers",3,0.605,2013,0,-0.031
+"Chicago Bulls",5,0.549,2013,-4,-0.209
+"Atlanta Hawks",6,0.537,2013,-1,-0.069
+"Boston Celtics",7,0.506,2013,-3,-0.085
+"Milwaukee Bucks",8,0.463,2013,1,-0.007
+"Philadelphia 76ers",9,0.415,2013,-1,-0.115
+"Toronto Raptors",10,0.415,2013,1,0.067
+"Detroit Pistons",11,0.354,2013,-1,-0.025
+"Washington Wizards",12,0.354,2013,2,0.051
+"Cleveland Cavaliers",13,0.293,2013,0,-0.025
+"Charlotte Bobcats",14,0.256,2013,1,0.15
+"Orlando Magic",15,0.244,2013,-9,-0.317
+"San Antonio Spurs",1,0.758,2012,0,0.014
+"Oklahoma City Thunder",2,0.712,2012,2,0.041
+"Los Angeles Lakers",3,0.621,2012,-1,-0.074
+"Memphis Grizzlies",4,0.621,2012,4,0.06
+"Los Angeles Clippers",5,0.606,2012,8,0.216
+"Denver Nuggets",6,0.576,2012,-1,-0.034
+"Dallas Mavericks",7,0.545,2012,-4,-0.15
+"Utah Jazz",8,0.545,2012,3,0.069
+"Houston Rockets",9,0.515,2012,0,-0.009
+"Phoenix Suns",10,0.5,2012,0,0.012
+"Portland Trail Blazers",11,0.424,2012,-5,-0.161
+"Minnesota Timberwolves",12,0.394,2012,3,0.187
+"Golden State Warriors",13,0.348,2012,-1,-0.091
+"Sacramento Kings",14,0.333,2012,0,0.04
+"New Orleans Hornets",15,0.318,2012,-8,-0.243
+"Chicago Bulls",1,0.758,2012,0,0.002
+"Miami Heat",2,0.697,2012,0,-0.01
+"Indiana Pacers",3,0.636,2012,5,0.185
+"Boston Celtics",4,0.591,2012,-1,-0.092
+"Atlanta Hawks",5,0.606,2012,0,0.069
+"Orlando Magic",6,0.561,2012,-2,-0.073
+"New York Knicks",7,0.545,2012,-1,0.033
+"Philadelphia 76ers",8,0.53,2012,-1,0.03
+"Milwaukee Bucks",9,0.47,2012,0,0.043
+"Detroit Pistons",10,0.379,2012,1,0.013
+"Toronto Raptors",11,0.348,2012,3,0.08
+"New Jersey Nets",12,0.333,2012,0,0.04
+"Cleveland Cavaliers",13,0.318,2012,2,0.086
+"Washington Wizards",14,0.303,2012,-1,0.023
+"Charlotte Bobcats",15,0.106,2012,-5,-0.309
+"San Antonio Spurs",1,0.744,2011,6,0.134
+"Los Angeles Lakers",2,0.695,2011,-1,0
+"Dallas Mavericks",3,0.695,2011,-1,0.024
+"Oklahoma City Thunder",4,0.671,2011,4,0.061
+"Denver Nuggets",5,0.61,2011,-1,-0.036
+"Portland Trail Blazers",6,0.585,2011,0,-0.025
+"New Orleans Hornets",7,0.561,2011,4,0.11
+"Memphis Grizzlies",8,0.561,2011,2,0.073
+"Houston Rockets",9,0.524,2011,0,0.012
+"Phoenix Suns",10,0.488,2011,-7,-0.171
+"Utah Jazz",11,0.476,2011,-6,-0.17
+"Golden State Warriors",12,0.439,2011,1,0.122
+"Los Angeles Clippers",13,0.39,2011,-1,0.036
+"Sacramento Kings",14,0.293,2011,0,-0.012
+"Minnesota Timberwolves",15,0.207,2011,0,0.024
+"Chicago Bulls",1,0.756,2011,7,0.256
+"Miami Heat",2,0.707,2011,3,0.134
+"Boston Celtics",3,0.683,2011,1,0.073
+"Orlando Magic",4,0.634,2011,-2,-0.086
+"Atlanta Hawks",5,0.537,2011,-2,-0.109
+"New York Knicks",6,0.512,2011,5,0.158
+"Philadelphia 76ers",7,0.5,2011,6,0.171
+"Indiana Pacers",8,0.451,2011,2,0.061
+"Milwaukee Bucks",9,0.427,2011,-3,-0.134
+"Charlotte Bobcats",10,0.415,2011,-3,-0.122
+"Detroit Pistons",11,0.366,2011,1,0.037
+"New Jersey Nets",12,0.293,2011,3,0.147
+"Washington Wizards",13,0.28,2011,1,-0.037
+"Toronto Raptors",14,0.268,2011,-5,-0.22
+"Cleveland Cavaliers",15,0.232,2011,-14,-0.512
+"Los Angeles Lakers",1,0.695,2010,0,-0.098
+"Dallas Mavericks",2,0.671,2010,4,0.061
+"Phoenix Suns",3,0.659,2010,6,0.098
+"Denver Nuggets",4,0.646,2010,-2,-0.013
+"Utah Jazz",5,0.646,2010,3,0.061
+"Portland Trail Blazers",6,0.61,2010,-2,-0.049
+"San Antonio Spurs",7,0.61,2010,-4,-0.049
+"Oklahoma City Thunder",8,0.61,2010,5,0.33
+"Houston Rockets",9,0.512,2010,-4,-0.134
+"Memphis Grizzlies",10,0.488,2010,2,0.195
+"New Orleans Hornets",11,0.451,2010,-4,-0.147
+"Los Angeles Clippers",12,0.354,2010,2,0.122
+"Golden State Warriors",13,0.317,2010,-3,-0.037
+"Sacramento Kings",14,0.305,2010,1,0.098
+"Minnesota Timberwolves",15,0.183,2010,-4,-0.11
+"Cleveland Cavaliers",1,0.744,2010,0,-0.061
+"Orlando Magic",2,0.72,2010,1,0
+"Atlanta Hawks",3,0.646,2010,1,0.073
+"Boston Celtics",4,0.61,2010,-2,-0.146
+"Miami Heat",5,0.573,2010,0,0.049
+"Milwaukee Bucks",6,0.561,2010,6,0.146
+"Charlotte Bobcats",7,0.537,2010,3,0.11
+"Chicago Bulls",8,0.5,2010,-1,0
+"Toronto Raptors",9,0.488,2010,4,0.086
+"Indiana Pacers",10,0.39,2010,-1,-0.049
+"New York Knicks",11,0.354,2010,3,-0.036
+"Detroit Pistons",12,0.329,2010,-4,-0.147
+"Philadelphia 76ers",13,0.329,2010,-7,-0.171
+"Washington Wizards",14,0.317,2010,1,0.085
+"New Jersey Nets",15,0.146,2010,-4,-0.269
+"Los Angeles Lakers",1,0.793,2009,0,0.098
+"Denver Nuggets",2,0.659,2009,6,0.049
+"San Antonio Spurs",3,0.659,2009,0,-0.024
+"Portland Trail Blazers",4,0.659,2009,6,0.159
+"Houston Rockets",5,0.646,2009,0,-0.025
+"Dallas Mavericks",6,0.61,2009,1,-0.012
+"New Orleans Hornets",7,0.598,2009,-5,-0.085
+"Utah Jazz",8,0.585,2009,-4,-0.074
+"Phoenix Suns",9,0.561,2009,-3,-0.11
+"Golden State Warriors",10,0.354,2009,-1,-0.231
+"Minnesota Timberwolves",11,0.293,2009,2,0.025
+"Memphis Grizzlies",12,0.293,2009,2,0.025
+"Los Angeles Clippers",14,0.232,2009,-2,-0.048
+"Sacramento Kings",15,0.207,2009,-4,-0.256
+"Cleveland Cavaliers",1,0.805,2009,3,0.256
+"Boston Celtics",2,0.756,2009,-1,-0.049
+"Orlando Magic",3,0.72,2009,0,0.086
+"Atlanta Hawks",4,0.573,2009,4,0.122
+"Miami Heat",5,0.524,2009,10,0.341
+"Philadelphia 76ers",6,0.5,2009,1,0.012
+"Chicago Bulls",7,0.5,2009,4,0.098
+"Detroit Pistons",8,0.476,2009,-6,-0.244
+"Indiana Pacers",9,0.439,2009,0,0
+"Charlotte Bobcats",10,0.427,2009,2,0.037
+"New Jersey Nets",11,0.415,2009,-1,0
+"Milwaukee Bucks",12,0.415,2009,1,0.098
+"Toronto Raptors",13,0.402,2009,-7,-0.098
+"New York Knicks",14,0.39,2009,0,0.11
+"Washington Wizards",15,0.232,2009,-10,-0.292
+"Los Angeles Lakers",1,0.695,2008,6,0.183
+"San Antonio Spurs",3,0.683,2008,0,-0.024
+"Utah Jazz",4,0.659,2008,0,0.037
+"Houston Rockets",5,0.671,2008,0,0.037
+"Phoenix Suns",6,0.671,2008,-4,-0.073
+"Dallas Mavericks",7,0.622,2008,-6,-0.195
+"Denver Nuggets",8,0.61,2008,-2,0.061
+"Golden State Warriors",9,0.585,2008,-1,0.073
+"Portland Trail Blazers",10,0.5,2008,2,0.11
+"Sacramento Kings",11,0.463,2008,0,0.061
+"Los Angeles Clippers",12,0.28,2008,-3,-0.208
+"Minnesota Timberwolves",13,0.268,2008,0,-0.122
+"Memphis Grizzlies",14,0.268,2008,1,0
+"Seattle Supersonics",15,0.244,2008,-1,-0.134
+"Boston Celtics",1,0.805,2008,14,0.512
+"Detroit Pistons",2,0.72,2008,-1,0.074
+"Orlando Magic",3,0.634,2008,5,0.146
+"Cleveland Cavaliers",4,0.549,2008,-2,-0.061
+"Washington Wizards",5,0.524,2008,2,0.024
+"Toronto Raptors",6,0.5,2008,-3,-0.073
+"Philadelphia 76ers",7,0.488,2008,3,0.061
+"Atlanta Hawks",8,0.451,2008,5,0.085
+"Indiana Pacers",9,0.439,2008,0,0.012
+"New Jersey Nets",10,0.415,2008,-4,-0.085
+"Chicago Bulls",11,0.402,2008,-6,-0.196
+"Charlotte Bobcats",12,0.39,2008,-1,-0.012
+"Milwaukee Bucks",13,0.317,2008,1,-0.024
+"New York Knicks",14,0.28,2008,-2,-0.122
+"Miami Heat",15,0.183,2008,-11,-0.354
+"Dallas Mavericks",1,0.817,2007,3,0.085
+"Phoenix Suns",2,0.744,2007,0,0.085
+"San Antonio Spurs",3,0.707,2007,-2,-0.061
+"Utah Jazz",4,0.622,2007,5,0.122
+"Houston Rockets",5,0.634,2007,7,0.219
+"Denver Nuggets",6,0.549,2007,-3,0.012
+"Los Angeles Lakers",7,0.512,2007,0,-0.037
+"Golden State Warriors",8,0.512,2007,5,0.097
+"Los Angeles Clippers",9,0.488,2007,-3,-0.085
+"New Orleans/Oklahoma City Hornets",10,0.476,2007,0,0.013
+"Sacramento Kings",11,0.402,2007,-3,-0.135
+"Portland Trail Blazers",12,0.39,2007,3,0.134
+"Minnesota Timberwolves",13,0.39,2007,1,-0.012
+"Seattle Supersonics",14,0.378,2007,-3,-0.049
+"Memphis Grizzlies",15,0.268,2007,-10,-0.33
+"Detroit Pistons",1,0.646,2007,0,-0.134
+"Cleveland Cavaliers",2,0.61,2007,2,0
+"Toronto Raptors",3,0.573,2007,9,0.244
+"Miami Heat",4,0.537,2007,-2,-0.097
+"Chicago Bulls",5,0.598,2007,2,0.098
+"New Jersey Nets",6,0.5,2007,-3,-0.098
+"Washington Wizards",7,0.5,2007,-2,-0.012
+"Orlando Magic",8,0.488,2007,2,0.049
+"Indiana Pacers",9,0.427,2007,-3,-0.073
+"Philadelphia 76ers",10,0.427,2007,-1,-0.036
+"Charlotte Bobcats",11,0.402,2007,2,0.085
+"New York Knicks",12,0.402,2007,3,0.122
+"Atlanta Hawks",13,0.366,2007,1,0.049
+"Milwaukee Bucks",14,0.341,2007,-6,-0.147
+"Boston Celtics",15,0.293,2007,-4,-0.109
+"San Antonio Spurs",1,0.768,2006,1,0.048
+"Phoenix Suns",2,0.659,2006,-1,-0.097
+"Dallas Mavericks",4,0.732,2006,0,0.025
+"Seattle Supersonics",11,0.427,2006,-8,-0.207
+"Denver Nuggets",3,0.537,2006,4,-0.061
+"Memphis Grizzlies",5,0.598,2006,3,0.049
+"Los Angeles Clippers",6,0.573,2006,4,0.122
+"Los Angeles Lakers",7,0.549,2006,4,0.134
+"Sacramento Kings",8,0.537,2006,-2,-0.073
+"Utah Jazz",9,0.5,2006,5,0.183
+"Houston Rockets",12,0.415,2006,-7,-0.207
+"Golden State Warriors",13,0.415,2006,-1,0
+"Minnesota Timberwolves",14,0.402,2006,-5,-0.135
+"Portland Trail Blazers",15,0.256,2006,-2,-0.073
+"Detroit Pistons",1,0.78,2006,1,0.121
+"Miami Heat",2,0.634,2006,-1,-0.086
+"New Jersey Nets",3,0.598,2006,5,0.086
+"Cleveland Cavaliers",4,0.61,2006,5,0.098
+"Washington Wizards",5,0.512,2006,0,-0.037
+"Indiana Pacers",6,0.5,2006,0,-0.037
+"Chicago Bulls",7,0.5,2006,-3,-0.073
+"Milwaukee Bucks",8,0.488,2006,5,0.122
+"Philadelphia 76ers",9,0.463,2006,-2,-0.061
+"Orlando Magic",10,0.439,2006,0,0
+"Boston Celtics",11,0.402,2006,-8,-0.147
+"Toronto Raptors",12,0.329,2006,-1,-0.073
+"Charlotte Bobcats",13,0.317,2006,1,0.097
+"Atlanta Hawks",14,0.317,2006,1,0.158
+"New York Knicks",15,0.28,2006,-3,-0.122
+"Phoenix Suns",1,0.756,2005,12,0.402
+"San Antonio Spurs",2,0.72,2005,1,0.025
+"Seattle Supersonics",3,0.634,2005,9,0.183
+"Dallas Mavericks",4,0.707,2005,1,0.073
+"Houston Rockets",5,0.622,2005,2,0.073
+"Sacramento Kings",6,0.61,2005,-2,-0.061
+"Denver Nuggets",7,0.598,2005,1,0.074
+"Memphis Grizzlies",8,0.549,2005,-2,-0.061
+"Minnesota Timberwolves",9,0.537,2005,-8,-0.17
+"Los Angeles Clippers",10,0.451,2005,4,0.11
+"Los Angeles Lakers",11,0.415,2005,-9,-0.268
+"Golden State Warriors",12,0.415,2005,-1,-0.036
+"Portland Trail Blazers",13,0.329,2005,-3,-0.171
+"Utah Jazz",14,0.317,2005,-5,-0.195
+"New Orleans Hornets",15,0.22,2005,-10,-0.28
+"Miami Heat",1,0.72,2005,3,0.208
+"Detroit Pistons",2,0.659,2005,1,0
+"Boston Celtics",3,0.549,2005,5,0.11
+"Chicago Bulls",4,0.573,2005,10,0.293
+"Washington Wizards",5,0.549,2005,8,0.244
+"Indiana Pacers",6,0.537,2005,-5,-0.207
+"Philadelphia 76ers",7,0.524,2005,4,0.122
+"New Jersey Nets",8,0.512,2005,-6,-0.061
+"Cleveland Cavaliers",9,0.512,2005,0,0.085
+"Orlando Magic",10,0.439,2005,5,0.183
+"Toronto Raptors",11,0.402,2005,-1,0
+"New York Knicks",12,0.402,2005,-5,-0.074
+"Milwaukee Bucks",13,0.366,2005,-7,-0.134
+"Atlanta Hawks",15,0.159,2005,-3,-0.182
+"Minnesota Timberwolves",1,0.707,2004,3,0.085
+"Los Angeles Lakers",2,0.683,2004,3,0.073
+"San Antonio Spurs",3,0.695,2004,-2,-0.037
+"Sacramento Kings",4,0.671,2004,-2,-0.049
+"Dallas Mavericks",5,0.634,2004,-2,-0.098
+"Memphis Grizzlies",6,0.61,2004,6,0.269
+"Houston Rockets",7,0.549,2004,2,0.025
+"Denver Nuggets",8,0.524,2004,6,0.317
+"Utah Jazz",9,0.512,2004,-2,-0.061
+"Portland Trail Blazers",10,0.5,2004,-4,-0.11
+"Golden State Warriors",11,0.451,2004,0,-0.012
+"Seattle Supersonics",12,0.451,2004,-2,-0.037
+"Phoenix Suns",13,0.354,2004,-5,-0.183
+"Los Angeles Clippers",14,0.341,2004,-1,0.012
+"Indiana Pacers",1,0.744,2004,2,0.159
+"New Jersey Nets",2,0.573,2004,0,-0.025
+"Detroit Pistons",3,0.659,2004,-2,0.049
+"Miami Heat",4,0.512,2004,9,0.207
+"New Orleans Hornets",5,0.5,2004,0,-0.073
+"Milwaukee Bucks",6,0.5,2004,1,-0.012
+"New York Knicks",7,0.476,2004,3,0.025
+"Boston Celtics",8,0.439,2004,-2,-0.098
+"Cleveland Cavaliers",9,0.427,2004,6,0.22
+"Toronto Raptors",10,0.402,2004,4,0.109
+"Philadelphia 76ers",11,0.402,2004,-7,-0.183
+"Atlanta Hawks",12,0.341,2004,-1,-0.086
+"Washington Wizards",13,0.305,2004,-4,-0.146
+"Chicago Bulls",14,0.28,2004,-2,-0.086
+"Orlando Magic",15,0.256,2004,-7,-0.256
+"San Antonio Spurs",1,0.732,2003,1,0.025
+"Sacramento Kings",2,0.72,2003,-1,-0.024
+"Dallas Mavericks",3,0.732,2003,1,0.037
+"Minnesota Timberwolves",4,0.622,2003,1,0.012
+"Los Angeles Lakers",5,0.61,2003,-2,-0.097
+"Portland Trail Blazers",6,0.61,2003,0,0.012
+"Utah Jazz",7,0.573,2003,1,0.036
+"Phoenix Suns",8,0.537,2003,2,0.098
+"Houston Rockets",9,0.524,2003,2,0.183
+"Seattle Supersonics",10,0.488,2003,-3,-0.061
+"Golden State Warriors",11,0.463,2003,3,0.207
+"Memphis Grizzlies",12,0.341,2003,1,0.061
+"Los Angeles Clippers",13,0.329,2003,-4,-0.147
+"Denver Nuggets",14,0.207,2003,-2,-0.122
+"Detroit Pistons",1,0.61,2003,1,0
+"New Jersey Nets",2,0.598,2003,-1,-0.036
+"Indiana Pacers",3,0.585,2003,5,0.073
+"Philadelphia 76ers",4,0.585,2003,2,0.061
+"Boston Celtics",6,0.537,2003,-3,-0.061
+"Milwaukee Bucks",7,0.512,2003,2,0.012
+"Orlando Magic",8,0.512,2003,-3,-0.025
+"Washington Wizards",9,0.451,2003,1,0
+"New York Knicks",10,0.451,2003,3,0.085
+"Atlanta Hawks",11,0.427,2003,1,0.025
+"Chicago Bulls",12,0.366,2003,3,0.11
+"Miami Heat",13,0.305,2003,-2,-0.134
+"Toronto Raptors",14,0.293,2003,-7,-0.219
+"Cleveland Cavaliers",15,0.207,2003,-1,-0.147
+"Sacramento Kings",1,0.744,2002,2,0.073
+"San Antonio Spurs",2,0.707,2002,-1,0
+"Los Angeles Lakers",3,0.707,2002,-1,0.024
+"Dallas Mavericks",4,0.695,2002,1,0.049
+"Minnesota Timberwolves",5,0.61,2002,3,0.037
+"Portland Trail Blazers",6,0.598,2002,1,-0.012
+"Seattle Supersonics",7,0.549,2002,3,0.012
+"Utah Jazz",8,0.537,2002,-4,-0.109
+"Los Angeles Clippers",9,0.476,2002,3,0.098
+"Phoenix Suns",10,0.439,2002,-4,-0.183
+"Houston Rockets",11,0.341,2002,-2,-0.208
+"Denver Nuggets",12,0.329,2002,-1,-0.159
+"Golden State Warriors",14,0.256,2002,0,0.049
+"New Jersey Nets",1,0.634,2002,11,0.317
+"Detroit Pistons",2,0.61,2002,8,0.22
+"Boston Celtics",3,0.598,2002,6,0.159
+"Charlotte Hornets",4,0.537,2002,2,-0.024
+"Orlando Magic",5,0.537,2002,2,0.013
+"Philadelphia 76ers",6,0.524,2002,-5,-0.159
+"Toronto Raptors",7,0.512,2002,-2,-0.061
+"Indiana Pacers",8,0.512,2002,0,0.012
+"Milwaukee Bucks",9,0.5,2002,-7,-0.134
+"Washington Wizards",10,0.451,2002,4,0.219
+"Miami Heat",11,0.439,2002,-8,-0.171
+"Atlanta Hawks",12,0.402,2002,1,0.097
+"New York Knicks",13,0.366,2002,-9,-0.219
+"Cleveland Cavaliers",14,0.354,2002,-3,-0.012
+"Chicago Bulls",15,0.256,2002,0,0.073
+"San Antonio Spurs",1,0.707,2001,3,0.061
+"Los Angeles Lakers",2,0.683,2001,-1,-0.134
+"Sacramento Kings",3,0.671,2001,5,0.134
+"Utah Jazz",4,0.646,2001,-2,-0.025
+"Dallas Mavericks",5,0.646,2001,4,0.158
+"Phoenix Suns",6,0.622,2001,-1,-0.024
+"Portland Trail Blazers",7,0.61,2001,-4,-0.11
+"Minnesota Timberwolves",8,0.573,2001,-2,-0.037
+"Houston Rockets",9,0.549,2001,2,0.134
+"Seattle Supersonics",10,0.537,2001,-3,-0.012
+"Denver Nuggets",11,0.488,2001,-1,0.061
+"Los Angeles Clippers",12,0.378,2001,2,0.195
+"Vancouver Grizzlies",13,0.28,2001,-1,0.012
+"Golden State Warriors",14,0.207,2001,-1,-0.025
+"Philadelphia 76ers",1,0.683,2001,3,0.085
+"Milwaukee Bucks",2,0.634,2001,6,0.122
+"Miami Heat",3,0.61,2001,-1,-0.024
+"New York Knicks",4,0.585,2001,-1,-0.025
+"Toronto Raptors",5,0.573,2001,1,0.024
+"Charlotte Hornets",6,0.561,2001,-1,-0.037
+"Orlando Magic",7,0.524,2001,2,0.024
+"Indiana Pacers",8,0.5,2001,-7,-0.183
+"Boston Celtics",9,0.439,2001,1,0.012
+"Detroit Pistons",10,0.39,2001,-3,-0.122
+"Cleveland Cavaliers",11,0.366,2001,0,-0.024
+"New Jersey Nets",12,0.317,2001,0,-0.061
+"Atlanta Hawks",13,0.305,2001,1,-0.036
+"Washington Wizards",14,0.232,2001,-1,-0.122
+"Chicago Bulls",15,0.183,2001,0,-0.024
+"Los Angeles Lakers",1,0.817,2000,4,0.197
+"Utah Jazz",2,0.671,2000,0,-0.069
+"Portland Trail Blazers",3,0.72,2000,0,0.02
+"San Antonio Spurs",4,0.646,2000,-3,-0.094
+"Phoenix Suns",5,0.646,2000,1,0.106
+"Minnesota Timberwolves",6,0.61,2000,2,0.11
+"Seattle Supersonics",7,0.549,2000,2,0.049
+"Sacramento Kings",8,0.537,2000,-1,-0.003
+"Dallas Mavericks",9,0.488,2000,2,0.108
+"Denver Nuggets",10,0.427,2000,2,0.147
+"Houston Rockets",11,0.415,2000,-7,-0.205
+"Vancouver Grizzlies",12,0.268,2000,2,0.108
+"Golden State Warriors",13,0.232,2000,-3,-0.188
+"Los Angeles Clippers",14,0.183,2000,-1,0.003
+"Indiana Pacers",1,0.683,2000,1,0.023
+"Miami Heat",2,0.634,2000,-1,-0.026
+"New York Knicks",3,0.61,2000,5,0.07
+"Philadelphia 76ers",4,0.598,2000,2,0.038
+"Charlotte Hornets",5,0.598,2000,4,0.078
+"Toronto Raptors",6,0.549,2000,4,0.089
+"Detroit Pistons",7,0.512,2000,-2,-0.068
+"Milwaukee Bucks",8,0.512,2000,-1,-0.048
+"Orlando Magic",9,0.5,2000,-6,-0.16
+"Boston Celtics",10,0.427,2000,2,0.047
+"Cleveland Cavaliers",11,0.39,2000,0,-0.05
+"New Jersey Nets",12,0.378,2000,2,0.058
+"Washington Wizards",13,0.354,2000,0,-0.006
+"Atlanta Hawks",14,0.341,2000,-10,-0.279
+"Chicago Bulls",15,0.207,2000,0,-0.053
+"San Antonio Spurs",1,0.74,1999,4,0.057
+"Utah Jazz",2,0.74,1999,-1,-0.016
+"Portland Trail Blazers",3,0.7,1999,3,0.139
+"Houston Rockets",4,0.62,1999,4,0.12
+"Los Angeles Lakers",5,0.62,1999,-2,-0.124
+"Phoenix Suns",6,0.54,1999,-2,-0.143
+"Sacramento Kings",7,0.54,1999,2,0.211
+"Minnesota Timberwolves",8,0.5,1999,-1,-0.049
+"Seattle Supersonics",9,0.5,1999,-7,-0.244
+"Golden State Warriors",10,0.42,1999,2,0.188
+"Dallas Mavericks",11,0.38,1999,-1,0.136
+"Denver Nuggets",12,0.28,1999,2,0.146
+"Los Angeles Clippers",13,0.18,1999,0,-0.027
+"Vancouver Grizzlies",14,0.16,1999,-3,-0.072
+"Miami Heat",1,0.66,1999,1,-0.011
+"Indiana Pacers",2,0.66,1999,1,-0.047
+"Orlando Magic",3,0.66,1999,7,0.16
+"Atlanta Hawks",4,0.62,1999,1,0.01
+"Detroit Pistons",5,0.58,1999,6,0.129
+"Philadelphia 76ers",6,0.56,1999,8,0.182
+"Milwaukee Bucks",7,0.56,1999,6,0.121
+"New York Knicks",8,0.54,1999,-1,0.016
+"Charlotte Hornets",9,0.52,1999,-5,-0.102
+"Toronto Raptors",10,0.46,1999,5,0.265
+"Cleveland Cavaliers",11,0.44,1999,-5,-0.133
+"Boston Celtics",12,0.38,1999,0,-0.059
+"Washington Wizards",13,0.36,1999,-4,-0.152
+"New Jersey Nets",14,0.32,1999,-6,-0.204
+"Chicago Bulls",15,0.26,1999,-14,-0.496
+"Utah Jazz",1,0.756,1998,0,-0.024
+"Seattle Supersonics",2,0.744,1998,0,0.049
+"Los Angeles Lakers",3,0.744,1998,1,0.061
+"Phoenix Suns",4,0.683,1998,3,0.195
+"San Antonio Spurs",5,0.683,1998,8,0.439
+"Portland Trail Blazers",6,0.561,1998,-1,-0.037
+"Minnesota Timberwolves",7,0.549,1998,-1,0.061
+"Houston Rockets",8,0.5,1998,-5,-0.195
+"Sacramento Kings",9,0.329,1998,0,-0.086
+"Dallas Mavericks",10,0.244,1998,1,-0.049
+"Vancouver Grizzlies",11,0.232,1998,3,0.061
+"Golden State Warriors",12,0.232,1998,-2,-0.134
+"Los Angeles Clippers",13,0.207,1998,-5,-0.232
+"Denver Nuggets",14,0.134,1998,-2,-0.122
+"Chicago Bulls",1,0.756,1998,0,-0.085
+"Miami Heat",2,0.671,1998,0,-0.073
+"Indiana Pacers",3,0.707,1998,7,0.231
+"Charlotte Hornets",4,0.622,1998,2,-0.037
+"Atlanta Hawks",5,0.61,1998,-1,-0.073
+"Cleveland Cavaliers",6,0.573,1998,3,0.061
+"New York Knicks",7,0.524,1998,-4,-0.171
+"New Jersey Nets",8,0.524,1998,5,0.207
+"Orlando Magic",10,0.5,1998,-3,-0.049
+"Detroit Pistons",11,0.451,1998,-6,-0.208
+"Boston Celtics",12,0.439,1998,3,0.256
+"Milwaukee Bucks",13,0.439,1998,-2,0.037
+"Philadelphia 76ers",14,0.378,1998,0,0.11
+"Toronto Raptors",15,0.195,1998,-3,-0.171
+"Utah Jazz",1,0.78,1997,2,0.109
+"Seattle Supersonics",2,0.695,1997,-1,-0.085
+"Houston Rockets",3,0.695,1997,2,0.11
+"Los Angeles Lakers",4,0.683,1997,0,0.037
+"Portland Trail Blazers",5,0.598,1997,1,0.061
+"Minnesota Timberwolves",6,0.488,1997,6,0.171
+"Phoenix Suns",7,0.488,1997,0,-0.012
+"Los Angeles Clippers",8,0.439,1997,3,0.085
+"Sacramento Kings",9,0.415,1997,-1,-0.061
+"Golden State Warriors",10,0.366,1997,-1,-0.073
+"Dallas Mavericks",11,0.293,1997,2,-0.024
+"Denver Nuggets",12,0.256,1997,-2,-0.171
+"San Antonio Spurs",13,0.244,1997,-11,-0.476
+"Vancouver Grizzlies",14,0.171,1997,0,-0.012
+"Chicago Bulls",1,0.841,1997,0,-0.037
+"Miami Heat",2,0.744,1997,6,0.232
+"New York Knicks",3,0.695,1997,2,0.122
+"Atlanta Hawks",4,0.683,1997,2,0.122
+"Detroit Pistons",5,0.659,1997,2,0.098
+"Charlotte Hornets",6,0.659,1997,3,0.159
+"Orlando Magic",7,0.549,1997,-5,-0.183
+"Washington Bullets",8,0.537,1997,2,0.061
+"Cleveland Cavaliers",9,0.512,1997,-5,-0.061
+"Indiana Pacers",10,0.476,1997,-7,-0.158
+"Milwaukee Bucks",11,0.402,1997,2,0.097
+"Toronto Raptors",12,0.366,1997,2,0.11
+"New Jersey Nets",13,0.317,1997,-1,-0.049
+"Philadelphia 76ers",14,0.268,1997,1,0.048
+"Boston Celtics",15,0.183,1997,-4,-0.219
+"Seattle Supersonics",1,0.78,1996,3,0.085
+"San Antonio Spurs",2,0.72,1996,-1,-0.036
+"Utah Jazz",3,0.671,1996,0,-0.061
+"Los Angeles Lakers",4,0.646,1996,1,0.061
+"Houston Rockets",5,0.585,1996,1,0.012
+"Portland Trail Blazers",6,0.537,1996,1,0
+"Phoenix Suns",7,0.5,1996,-5,-0.22
+"Sacramento Kings",8,0.476,1996,1,0
+"Golden State Warriors",9,0.439,1996,2,0.122
+"Denver Nuggets",10,0.427,1996,-2,-0.073
+"Los Angeles Clippers",11,0.354,1996,2,0.147
+"Minnesota Timberwolves",12,0.317,1996,0,0.061
+"Dallas Mavericks",13,0.317,1996,-3,-0.122
+"Chicago Bulls",1,0.878,1996,4,0.305
+"Orlando Magic",2,0.732,1996,-1,0.037
+"Indiana Pacers",3,0.634,1996,-1,0
+"Cleveland Cavaliers",4,0.573,1996,2,0.049
+"New York Knicks",5,0.573,1996,-2,-0.098
+"Atlanta Hawks",6,0.561,1996,1,0.049
+"Detroit Pistons",7,0.561,1996,5,0.22
+"Miami Heat",8,0.512,1996,2,0.122
+"Charlotte Hornets",9,0.5,1996,-5,-0.11
+"Washington Bullets",10,0.476,1996,4,0.22
+"Boston Celtics",11,0.402,1996,-3,-0.025
+"New Jersey Nets",12,0.366,1996,-1,0
+"Milwaukee Bucks",13,0.305,1996,-4,-0.11
+"Philadelphia 76ers",15,0.22,1996,-2,-0.073
+"San Antonio Spurs",1,0.756,1995,3,0.085
+"Phoenix Suns",2,0.72,1995,1,0.037
+"Utah Jazz",3,0.732,1995,2,0.086
+"Seattle Supersonics",4,0.695,1995,-3,-0.073
+"Los Angeles Lakers",5,0.585,1995,4,0.183
+"Houston Rockets",6,0.573,1995,-4,-0.134
+"Portland Trail Blazers",7,0.537,1995,0,-0.036
+"Denver Nuggets",8,0.5,1995,0,-0.012
+"Sacramento Kings",9,0.476,1995,1,0.135
+"Dallas Mavericks",10,0.439,1995,3,0.28
+"Golden State Warriors",11,0.317,1995,-5,-0.293
+"Minnesota Timberwolves",12,0.256,1995,0,0.012
+"Los Angeles Clippers",13,0.207,1995,-2,-0.122
+"Orlando Magic",1,0.695,1995,3,0.085
+"Indiana Pacers",2,0.634,1995,3,0.061
+"New York Knicks",3,0.671,1995,-1,-0.024
+"Charlotte Hornets",4,0.61,1995,5,0.11
+"Chicago Bulls",5,0.573,1995,-2,-0.098
+"Cleveland Cavaliers",6,0.524,1995,0,-0.049
+"Atlanta Hawks",7,0.512,1995,-6,-0.183
+"Boston Celtics",8,0.427,1995,2,0.037
+"Milwaukee Bucks",9,0.415,1995,4,0.171
+"Miami Heat",10,0.39,1995,-2,-0.122
+"New Jersey Nets",11,0.366,1995,-4,-0.183
+"Detroit Pistons",12,0.341,1995,2,0.097
+"Philadelphia 76ers",13,0.293,1995,-2,-0.012
+"Washington Bullets",14,0.256,1995,-2,-0.037
+"Seattle Supersonics",1,0.768,1994,2,0.097
+"Houston Rockets",2,0.707,1994,0,0.036
+"Phoenix Suns",3,0.683,1994,-2,-0.073
+"San Antonio Spurs",4,0.671,1994,1,0.073
+"Utah Jazz",5,0.646,1994,1,0.073
+"Golden State Warriors",6,0.61,1994,4,0.195
+"Portland Trail Blazers",7,0.573,1994,-3,-0.049
+"Denver Nuggets",8,0.512,1994,1,0.073
+"Los Angeles Lakers",9,0.402,1994,-1,-0.074
+"Sacramento Kings",10,0.341,1994,1,0.036
+"Los Angeles Clippers",11,0.329,1994,-4,-0.171
+"Minnesota Timberwolves",12,0.244,1994,0,0.012
+"Dallas Mavericks",13,0.159,1994,0,0.025
+"Atlanta Hawks",1,0.695,1994,6,0.171
+"New York Knicks",2,0.695,1994,-1,-0.037
+"Chicago Bulls",3,0.671,1994,-1,-0.024
+"Orlando Magic",4,0.61,1994,5,0.11
+"Indiana Pacers",5,0.573,1994,3,0.073
+"Cleveland Cavaliers",6,0.573,1994,-3,-0.086
+"New Jersey Nets",7,0.549,1994,-1,0.025
+"Miami Heat",8,0.512,1994,3,0.073
+"Charlotte Hornets",9,0.5,1994,-4,-0.037
+"Boston Celtics",10,0.39,1994,-6,-0.195
+"Philadelphia 76ers",11,0.305,1994,2,-0.012
+"Washington Bullets",12,0.293,1994,2,0.025
+"Milwaukee Bucks",13,0.244,1994,-1,-0.097
+"Detroit Pistons",14,0.244,1994,-4,-0.244
+"Phoenix Suns",1,0.756,1993,3,0.11
+"Houston Rockets",2,0.671,1993,7,0.159
+"Seattle Supersonics",3,0.671,1993,3,0.098
+"Portland Trail Blazers",4,0.622,1993,-3,-0.073
+"San Antonio Spurs",5,0.598,1993,0,0.025
+"Utah Jazz",6,0.573,1993,-4,-0.098
+"Los Angeles Clippers",7,0.5,1993,0,-0.049
+"Los Angeles Lakers",8,0.476,1993,0,-0.048
+"Denver Nuggets",9,0.439,1993,2,0.146
+"Golden State Warriors",10,0.415,1993,-7,-0.256
+"Sacramento Kings",11,0.305,1993,-1,-0.049
+"Minnesota Timberwolves",12,0.232,1993,1,0.049
+"Dallas Mavericks",13,0.134,1993,-1,-0.134
+"New York Knicks",1,0.732,1993,3,0.11
+"Chicago Bulls",2,0.695,1993,-1,-0.122
+"Cleveland Cavaliers",3,0.659,1993,0,-0.036
+"Boston Celtics",4,0.585,1993,-2,-0.037
+"Charlotte Hornets",5,0.537,1993,6,0.159
+"New Jersey Nets",6,0.524,1993,0,0.036
+"Atlanta Hawks",7,0.524,1993,2,0.061
+"Indiana Pacers",8,0.5,1993,-1,0.012
+"Orlando Magic",9,0.5,1993,5,0.244
+"Detroit Pistons",10,0.488,1993,-5,-0.097
+"Miami Heat",11,0.439,1993,-3,-0.024
+"Milwaukee Bucks",12,0.341,1993,0,-0.037
+"Philadelphia 76ers",13,0.317,1993,-3,-0.11
+"Washington Bullets",14,0.268,1993,-1,-0.037
+"Portland Trail Blazers",1,0.695,1992,0,-0.073
+"Utah Jazz",2,0.671,1992,3,0.012
+"Golden State Warriors",3,0.671,1992,4,0.134
+"Phoenix Suns",4,0.646,1992,0,-0.025
+"San Antonio Spurs",5,0.573,1992,-3,-0.098
+"Seattle Supersonics",6,0.573,1992,2,0.073
+"Los Angeles Clippers",7,0.549,1992,3,0.171
+"Los Angeles Lakers",8,0.524,1992,-5,-0.183
+"Houston Rockets",9,0.512,1992,-3,-0.122
+"Sacramento Kings",10,0.354,1992,3,0.049
+"Denver Nuggets",11,0.293,1992,3,0.049
+"Dallas Mavericks",12,0.268,1992,0,-0.073
+"Minnesota Timberwolves",13,0.183,1992,-2,-0.171
+"Chicago Bulls",1,0.817,1992,0,0.073
+"Boston Celtics",2,0.622,1992,0,-0.061
+"Cleveland Cavaliers",3,0.695,1992,6,0.293
+"New York Knicks",4,0.622,1992,4,0.146
+"Detroit Pistons",5,0.585,1992,-2,-0.025
+"New Jersey Nets",6,0.488,1992,5,0.171
+"Indiana Pacers",7,0.488,1992,0,-0.012
+"Miami Heat",8,0.463,1992,5,0.17
+"Atlanta Hawks",9,0.463,1992,-3,-0.061
+"Philadelphia 76ers",10,0.427,1992,-5,-0.11
+"Charlotte Hornets",11,0.378,1992,1,0.061
+"Milwaukee Bucks",12,0.378,1992,-8,-0.207
+"Washington Bullets",13,0.305,1992,-3,-0.061
+"Orlando Magic",14,0.256,1992,-5,-0.122
+"Portland Trail Blazers",1,0.768,1991,2,0.048
+"San Antonio Spurs",2,0.671,1991,0,-0.012
+"Los Angeles Lakers",3,0.707,1991,-2,-0.061
+"Phoenix Suns",4,0.671,1991,1,0.012
+"Utah Jazz",5,0.659,1991,-1,-0.012
+"Houston Rockets",6,0.634,1991,2,0.134
+"Golden State Warriors",7,0.537,1991,3,0.086
+"Seattle Supersonics",8,0.5,1991,1,0
+"Orlando Magic",9,0.378,1991,3,0.158
+"Los Angeles Clippers",10,0.378,1991,1,0.012
+"Minnesota Timberwolves",11,0.354,1991,2,0.086
+"Dallas Mavericks",12,0.341,1991,-6,-0.232
+"Sacramento Kings",13,0.305,1991,-1,0.025
+"Denver Nuggets",14,0.244,1991,-7,-0.28
+"Chicago Bulls",1,0.744,1991,2,0.073
+"Boston Celtics",2,0.683,1991,2,0.049
+"Detroit Pistons",3,0.61,1991,-2,-0.11
+"Milwaukee Bucks",4,0.585,1991,2,0.048
+"Philadelphia 76ers",5,0.537,1991,-3,-0.109
+"Atlanta Hawks",6,0.524,1991,3,0.024
+"Indiana Pacers",7,0.5,1991,1,-0.012
+"New York Knicks",8,0.476,1991,-3,-0.073
+"Cleveland Cavaliers",9,0.402,1991,-2,-0.11
+"Washington Bullets",10,0.366,1991,0,-0.012
+"New Jersey Nets",11,0.317,1991,2,0.11
+"Charlotte Hornets",12,0.317,1991,2,0.085
+"Miami Heat",13,0.293,1991,-2,0.073
+"Los Angeles Lakers",1,0.768,1990,0,0.073
+"Utah Jazz",4,0.671,1990,-2,0.049
+"Phoenix Suns",5,0.659,1990,-2,-0.012
+"Houston Rockets",8,0.5,1990,-3,-0.049
+"Seattle Supersonics",9,0.5,1990,-5,-0.073
+"San Antonio Spurs",2,0.683,1990,9,0.427
+"Portland Trail Blazers",3,0.72,1990,5,0.244
+"Dallas Mavericks",6,0.573,1990,3,0.11
+"Denver Nuggets",7,0.524,1990,-1,-0.013
+"Golden State Warriors",10,0.451,1990,-3,-0.073
+"Los Angeles Clippers",11,0.366,1990,1,0.11
+"Sacramento Kings",12,0.28,1990,-2,-0.049
+"Charlotte Hornets",14,0.232,1990,-2,-0.012
+"Detroit Pistons",1,0.72,1990,0,-0.048
+"Philadelphia 76ers",2,0.646,1990,5,0.085
+"Chicago Bulls",3,0.671,1990,3,0.098
+"Boston Celtics",4,0.634,1990,4,0.122
+"New York Knicks",5,0.549,1990,-3,-0.085
+"Milwaukee Bucks",6,0.537,1990,-1,-0.061
+"Cleveland Cavaliers",7,0.512,1990,-4,-0.183
+"Indiana Pacers",8,0.512,1990,2,0.171
+"Atlanta Hawks",9,0.5,1990,-5,-0.134
+"Washington Bullets",10,0.378,1990,-1,-0.11
+"Miami Heat",11,0.22,1990,2,0.037
+"New Jersey Nets",13,0.207,1990,-2,-0.11
+"Los Angeles Lakers",1,0.695,1989,0,-0.061
+"Utah Jazz",2,0.622,1989,3,0.049
+"Phoenix Suns",3,0.671,1989,6,0.33
+"Seattle Supersonics",4,0.573,1989,3,0.036
+"Houston Rockets",5,0.549,1989,1,-0.012
+"Denver Nuggets",6,0.537,1989,-4,-0.122
+"Golden State Warriors",7,0.524,1989,4,0.28
+"Portland Trail Blazers",8,0.476,1989,-4,-0.17
+"Dallas Mavericks",9,0.463,1989,-6,-0.183
+"Sacramento Kings",10,0.329,1989,0,0.036
+"San Antonio Spurs",11,0.256,1989,-3,-0.122
+"Los Angeles Clippers",12,0.256,1989,0,0.049
+"Detroit Pistons",1,0.768,1989,1,0.109
+"New York Knicks",2,0.634,1989,6,0.171
+"Cleveland Cavaliers",3,0.695,1989,3,0.183
+"Atlanta Hawks",4,0.634,1989,0,0.024
+"Milwaukee Bucks",5,0.598,1989,0,0.086
+"Chicago Bulls",6,0.573,1989,-3,-0.037
+"Philadelphia 76ers",7,0.561,1989,3,0.122
+"Boston Celtics",8,0.512,1989,-7,-0.183
+"Washington Bullets",9,0.488,1989,-2,0.025
+"Indiana Pacers",10,0.341,1989,-1,-0.122
+"New Jersey Nets",11,0.317,1989,0,0.085
+"Los Angeles Lakers",1,0.756,1988,0,-0.037
+"Denver Nuggets",2,0.659,1988,6,0.208
+"Dallas Mavericks",3,0.646,1988,-1,-0.025
+"Portland Trail Blazers",4,0.646,1988,-1,0.048
+"Utah Jazz",5,0.573,1988,-1,0.036
+"Houston Rockets",6,0.561,1988,0,0.049
+"Seattle Supersonics",7,0.537,1988,0,0.061
+"San Antonio Spurs",8,0.378,1988,3,0.037
+"Phoenix Suns",9,0.341,1988,0,-0.098
+"Sacramento Kings",10,0.293,1988,0,-0.061
+"Golden State Warriors",11,0.244,1988,-6,-0.268
+"Los Angeles Clippers",12,0.207,1988,0,0.061
+"Boston Celtics",1,0.695,1988,0,-0.025
+"Detroit Pistons",2,0.659,1988,1,0.025
+"Chicago Bulls",3,0.61,1988,5,0.122
+"Atlanta Hawks",4,0.61,1988,-2,-0.085
+"Milwaukee Bucks",5,0.512,1988,-1,-0.098
+"Cleveland Cavaliers",6,0.512,1988,3,0.134
+"Washington Bullets",7,0.463,1988,-1,-0.049
+"New York Knicks",8,0.463,1988,3,0.17
+"Indiana Pacers",9,0.463,1988,-2,-0.037
+"Philadelphia 76ers",10,0.439,1988,-5,-0.11
+"New Jersey Nets",11,0.232,1988,-1,-0.061
+"Los Angeles Lakers",1,0.793,1987,0,0.037
+"Dallas Mavericks",2,0.671,1987,2,0.134
+"Portland Trail Blazers",3,0.598,1987,3,0.11
+"Utah Jazz",4,0.537,1987,1,0.025
+"Golden State Warriors",5,0.512,1987,7,0.146
+"Houston Rockets",6,0.512,1987,-4,-0.11
+"Seattle Supersonics",7,0.476,1987,4,0.098
+"Denver Nuggets",8,0.451,1987,-5,-0.122
+"Phoenix Suns",9,0.439,1987,0,0.049
+"Sacramento Kings",10,0.354,1987,-3,-0.097
+"San Antonio Spurs",11,0.341,1987,-3,-0.086
+"Los Angeles Clippers",12,0.146,1987,-2,-0.244
+"Boston Celtics",1,0.72,1987,0,-0.097
+"Atlanta Hawks",2,0.695,1987,2,0.085
+"Detroit Pistons",3,0.634,1987,2,0.073
+"Milwaukee Bucks",4,0.61,1987,-2,-0.085
+"Philadelphia 76ers",5,0.549,1987,-2,-0.11
+"Washington Bullets",6,0.512,1987,0,0.036
+"Indiana Pacers",7,0.5,1987,3,0.183
+"Chicago Bulls",8,0.488,1987,0,0.122
+"Cleveland Cavaliers",9,0.378,1987,0,0.024
+"New Jersey Nets",10,0.293,1987,-3,-0.183
+"New York Knicks",11,0.293,1987,0,0.013
+"Los Angeles Lakers",1,0.756,1986,0,0
+"Houston Rockets",2,0.622,1986,1,0.037
+"Denver Nuggets",3,0.573,1986,-1,-0.061
+"Dallas Mavericks",4,0.537,1986,0,0
+"Utah Jazz",5,0.512,1986,1,0.012
+"Portland Trail Blazers",6,0.488,1986,-1,-0.024
+"San Antonio Spurs",8,0.427,1986,-1,-0.073
+"Phoenix Suns",9,0.39,1986,-1,-0.049
+"Los Angeles Clippers",10,0.39,1986,1,0.012
+"Seattle Supersonics",11,0.378,1986,-1,0
+"Golden State Warriors",12,0.366,1986,0,0.098
+"Boston Celtics",1,0.817,1986,0,0.049
+"Milwaukee Bucks",2,0.695,1986,0,-0.025
+"Philadelphia 76ers",3,0.659,1986,0,-0.048
+"Atlanta Hawks",4,0.61,1986,5,0.195
+"Detroit Pistons",5,0.561,1986,-1,0
+"Washington Bullets",6,0.476,1986,0,-0.012
+"New Jersey Nets",7,0.476,1986,-2,-0.036
+"Chicago Bulls",8,0.366,1986,-1,-0.097
+"Cleveland Cavaliers",9,0.354,1986,-1,-0.085
+"Indiana Pacers",10,0.317,1986,1,0.049
+"New York Knicks",11,0.28,1986,-1,-0.013
+"Los Angeles Lakers",1,0.756,1985,0,0.097
+"Denver Nuggets",2,0.634,1985,5,0.171
+"Houston Rockets",3,0.585,1985,9,0.231
+"Dallas Mavericks",4,0.537,1985,0,0.013
+"Portland Trail Blazers",5,0.512,1985,-2,-0.073
+"Utah Jazz",6,0.5,1985,-4,-0.049
+"San Antonio Spurs",7,0.5,1985,3,0.049
+"Phoenix Suns",8,0.439,1985,-2,-0.061
+"Kansas City Kings",9,0.378,1985,-1,-0.085
+"Seattle Supersonics",10,0.378,1985,-5,-0.134
+"Golden State Warriors",12,0.268,1985,-3,-0.183
+"Boston Celtics",1,0.768,1985,0,0.012
+"Milwaukee Bucks",2,0.72,1985,0,0.11
+"Philadelphia 76ers",3,0.707,1985,0,0.073
+"Detroit Pistons",4,0.561,1985,0,-0.037
+"New Jersey Nets",5,0.512,1985,1,-0.037
+"Washington Bullets",6,0.488,1985,2,0.061
+"Chicago Bulls",7,0.463,1985,3,0.134
+"Cleveland Cavaliers",8,0.439,1985,1,0.098
+"Atlanta Hawks",9,0.415,1985,-2,-0.073
+"New York Knicks",10,0.293,1985,-5,-0.28
+"Indiana Pacers",11,0.268,1985,0,-0.049
+"Los Angeles Lakers",1,0.659,1984,0,-0.048
+"Utah Jazz",2,0.549,1984,8,0.183
+"Portland Trail Blazers",3,0.585,1984,2,0.024
+"Dallas Mavericks",4,0.524,1984,4,0.061
+"Seattle Supersonics",5,0.512,1984,-1,-0.073
+"Phoenix Suns",6,0.5,1984,-3,-0.146
+"Denver Nuggets",7,0.463,1984,-1,-0.086
+"Kansas City Kings",8,0.463,1984,-1,-0.086
+"Golden State Warriors",9,0.451,1984,0,0.085
+"San Antonio Spurs",10,0.451,1984,-8,-0.195
+"San Diego Clippers",11,0.366,1984,0,0.061
+"Houston Rockets",12,0.354,1984,0,0.183
+"Boston Celtics",1,0.756,1984,2,0.073
+"Milwaukee Bucks",2,0.61,1984,0,-0.012
+"Philadelphia 76ers",3,0.634,1984,-2,-0.159
+"Detroit Pistons",4,0.598,1984,4,0.147
+"New York Knicks",5,0.573,1984,0,0.036
+"New Jersey Nets",6,0.549,1984,-2,-0.049
+"Atlanta Hawks",7,0.488,1984,-1,-0.036
+"Washington Bullets",8,0.427,1984,-1,-0.085
+"Cleveland Cavaliers",9,0.341,1984,1,0.061
+"Chicago Bulls",10,0.329,1984,-1,-0.012
+"Indiana Pacers",11,0.317,1984,0,0.073
+"Los Angeles Lakers",1,0.707,1983,0,0.012
+"San Antonio Spurs",2,0.646,1983,0,0.061
+"Phoenix Suns",3,0.646,1983,2,0.085
+"Seattle Supersonics",4,0.585,1983,-1,-0.049
+"Portland Trail Blazers",5,0.561,1983,3,0.049
+"Denver Nuggets",6,0.549,1983,-2,-0.012
+"Kansas City Kings",7,0.549,1983,2,0.183
+"Dallas Mavericks",8,0.463,1983,2,0.122
+"Golden State Warriors",9,0.366,1983,-2,-0.183
+"Utah Jazz",10,0.366,1983,1,0.061
+"San Diego Clippers",11,0.305,1983,1,0.098
+"Houston Rockets",12,0.171,1983,-6,-0.39
+"Philadelphia 76ers",1,0.793,1983,2,0.086
+"Milwaukee Bucks",2,0.622,1983,0,-0.049
+"Boston Celtics",3,0.683,1983,-2,-0.085
+"New Jersey Nets",4,0.598,1983,0,0.061
+"New York Knicks",5,0.537,1983,5,0.135
+"Atlanta Hawks",6,0.524,1983,0,0.012
+"Washington Bullets",7,0.512,1983,-2,-0.012
+"Detroit Pistons",8,0.451,1983,-1,-0.025
+"Chicago Bulls",9,0.341,1983,0,-0.074
+"Cleveland Cavaliers",10,0.28,1983,1,0.097
+"Indiana Pacers",11,0.244,1983,-3,-0.183
+"Los Angeles Lakers",1,0.695,1982,2,0.036
+"San Antonio Spurs",2,0.585,1982,0,-0.049
+"Seattle Supersonics",3,0.634,1982,7,0.219
+"Denver Nuggets",4,0.561,1982,4,0.11
+"Phoenix Suns",5,0.561,1982,-4,-0.134
+"Houston Rockets",6,0.561,1982,0,0.073
+"Golden State Warriors",7,0.549,1982,0,0.073
+"Portland Trail Blazers",8,0.512,1982,-4,-0.037
+"Kansas City Kings",9,0.366,1982,-4,-0.122
+"Dallas Mavericks",10,0.341,1982,2,0.158
+"Utah Jazz",11,0.305,1982,0,-0.036
+"San Diego Clippers",12,0.207,1982,-3,-0.232
+"Boston Celtics",1,0.768,1982,0,0.012
+"Milwaukee Bucks",2,0.671,1982,0,-0.061
+"Philadelphia 76ers",3,0.707,1982,0,-0.049
+"New Jersey Nets",4,0.537,1982,6,0.244
+"Washington Bullets",5,0.524,1982,2,0.048
+"Atlanta Hawks",6,0.512,1982,2,0.134
+"Detroit Pistons",7,0.476,1982,4,0.22
+"Indiana Pacers",8,0.427,1982,-2,-0.11
+"Chicago Bulls",9,0.415,1982,-4,-0.134
+"New York Knicks",10,0.402,1982,-6,-0.208
+"Cleveland Cavaliers",11,0.183,1982,-2,-0.158

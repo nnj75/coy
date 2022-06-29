@@ -1,0 +1,1201 @@
+,min,avg,season,team
+0,4.7,13.14,2021.0,Miami Heat
+1,4.6,14.69,2020.0,Miami Heat
+2,-3.1,11.76,2019.0,Miami Heat
+3,3.6,12.27,2018.0,Miami Heat
+4,-0.7,11.48,2017.0,Miami Heat
+5,7.5,12.8,2016.0,Miami Heat
+6,2.4,15.33,2015.0,Miami Heat
+7,-5.0,11.83,2014.0,Miami Heat
+8,8.0,20.43,2013.0,Miami Heat
+9,-4.1,12.84,2012.0,Miami Heat
+10,1.8,11.71,2011.0,Miami Heat
+11,-6.4,11.59,2010.0,Miami Heat
+12,-3.7,11.45,2009.0,Miami Heat
+13,3.7,11.74,2008.0,Miami Heat
+14,5.5,12.02,2007.0,Miami Heat
+15,6.3,13.23,2006.0,Miami Heat
+16,-2.8,11.68,2005.0,Miami Heat
+17,5.2,13.5,2004.0,Miami Heat
+18,-7.2,10.62,2003.0,Miami Heat
+19,3.8,11.49,2002.0,Miami Heat
+20,-9.7,10.5,2001.0,Miami Heat
+21,-1.9,13.15,2000.0,Miami Heat
+22,6.6,13.33,1999.0,Miami Heat
+23,-3.3,10.47,1998.0,Miami Heat
+24,-0.5,13.43,1997.0,Miami Heat
+25,-4.1,12.83,1996.0,Miami Heat
+26,1.6,11.81,1995.0,Miami Heat
+27,6.5,13.55,1994.0,Miami Heat
+28,-3.4,11.6,1993.0,Miami Heat
+29,9.3,13.54,1992.0,Miami Heat
+30,8.7,14.11,1991.0,Miami Heat
+31,7.4,12.16,1990.0,Miami Heat
+32,8.3,11.86,1989.0,Miami Heat
+33,3.4,11.08,1988.0,Miami Heat
+34,,,,Miami Heat
+35,,,,Miami Heat
+36,,,,Miami Heat
+37,,,,Miami Heat
+38,,,,Miami Heat
+39,,,,Miami Heat
+0,-13.5,11.34,2021.0,Sacramento Kings
+1,-5.9,13.41,2020.0,Sacramento Kings
+2,-0.1,12.56,2019.0,Sacramento Kings
+3,3.7,12.54,2018.0,Sacramento Kings
+4,4.4,12.62,2017.0,Sacramento Kings
+5,8.0,13.64,2016.0,Sacramento Kings
+6,4.2,12.77,2015.0,Sacramento Kings
+7,2.4,15.77,2014.0,Sacramento Kings
+8,-8.3,10.78,2013.0,Sacramento Kings
+9,1.9,13.34,2012.0,Sacramento Kings
+10,8.9,13.55,2011.0,Sacramento Kings
+11,-17.9,10.29,2010.0,Sacramento Kings
+12,2.4,12.16,2009.0,Sacramento Kings
+13,-8.3,12.22,2008.0,Sacramento Kings
+14,-11.7,9.99,2007.0,Sacramento Kings
+15,-22.1,10.93,2006.0,Sacramento Kings
+16,7.1,13.64,2005.0,Sacramento Kings
+17,4.6,14.44,2004.0,Sacramento Kings
+18,6.2,14.56,2003.0,Sacramento Kings
+19,-3.7,13.72,2002.0,Sacramento Kings
+20,6.6,14.06,2001.0,Sacramento Kings
+21,-3.6,13.66,2000.0,Sacramento Kings
+22,2.6,13.49,1999.0,Sacramento Kings
+23,3.1,12.51,1998.0,Sacramento Kings
+24,2.1,11.94,1997.0,Sacramento Kings
+25,-10.5,11.26,1996.0,Sacramento Kings
+26,6.5,13.05,1995.0,Sacramento Kings
+27,-17.3,11.45,1994.0,Sacramento Kings
+28,5.4,12.18,1993.0,Sacramento Kings
+29,8.2,13.54,1992.0,Sacramento Kings
+30,5.3,13.24,1991.0,Sacramento Kings
+31,4.1,11.64,1990.0,Sacramento Kings
+32,-8.2,10.44,1989.0,Sacramento Kings
+33,5.0,12.36,1988.0,Sacramento Kings
+34,2.3,12.77,1987.0,Sacramento Kings
+35,-6.9,10.98,1986.0,Sacramento Kings
+36,6.7,12.26,1985.0,Sacramento Kings
+37,2.1,12.16,1984.0,Sacramento Kings
+38,9.2,13.76,1983.0,Sacramento Kings
+39,2.0,12.8,1982.0,Sacramento Kings
+0,-8.7,11.84,2021.0,Los Angeles Lakers
+1,0.0,13.35,2020.0,Los Angeles Lakers
+2,-5.6,12.9,2019.0,Los Angeles Lakers
+3,-11.9,12.46,2018.0,Los Angeles Lakers
+4,-3.2,11.32,2017.0,Los Angeles Lakers
+5,6.5,13.51,2016.0,Los Angeles Lakers
+6,4.9,12.11,2015.0,Los Angeles Lakers
+7,-7.5,11.73,2014.0,Los Angeles Lakers
+8,7.6,13.41,2013.0,Los Angeles Lakers
+9,-6.7,10.6,2012.0,Los Angeles Lakers
+10,4.5,12.79,2011.0,Los Angeles Lakers
+11,2.1,12.76,2010.0,Los Angeles Lakers
+12,6.7,13.37,2009.0,Los Angeles Lakers
+13,-8.6,12.46,2008.0,Los Angeles Lakers
+14,1.2,14.15,2007.0,Los Angeles Lakers
+15,7.5,13.7,2006.0,Los Angeles Lakers
+16,-1.6,10.94,2005.0,Los Angeles Lakers
+17,1.3,12.41,2004.0,Los Angeles Lakers
+18,1.6,12.79,2003.0,Los Angeles Lakers
+19,5.2,12.56,2002.0,Los Angeles Lakers
+20,5.0,15.05,2001.0,Los Angeles Lakers
+21,6.2,13.97,2000.0,Los Angeles Lakers
+22,2.7,13.03,1999.0,Los Angeles Lakers
+23,8.0,14.09,1998.0,Los Angeles Lakers
+24,4.9,15.77,1997.0,Los Angeles Lakers
+25,4.2,14.21,1996.0,Los Angeles Lakers
+26,0.7,14.01,1995.0,Los Angeles Lakers
+27,5.0,13.72,1994.0,Los Angeles Lakers
+28,8.0,13.79,1993.0,Los Angeles Lakers
+29,7.6,13.56,1992.0,Los Angeles Lakers
+30,1.8,12.35,1991.0,Los Angeles Lakers
+31,-0.4,12.98,1990.0,Los Angeles Lakers
+32,0.0,12.5,1989.0,Los Angeles Lakers
+33,6.8,14.39,1988.0,Los Angeles Lakers
+34,-0.8,13.35,1987.0,Los Angeles Lakers
+35,5.0,14.82,1986.0,Los Angeles Lakers
+36,5.4,15.41,1985.0,Los Angeles Lakers
+37,-11.0,12.61,1984.0,Los Angeles Lakers
+38,4.9,13.38,1983.0,Los Angeles Lakers
+39,-7.3,11.68,1982.0,Los Angeles Lakers
+0,-11.4,12.07,2021.0,San Antonio Spurs
+1,6.2,13.6,2020.0,San Antonio Spurs
+2,3.2,14.78,2019.0,San Antonio Spurs
+3,-0.5,13.59,2018.0,San Antonio Spurs
+4,3.4,14.34,2017.0,San Antonio Spurs
+5,5.9,13.99,2016.0,San Antonio Spurs
+6,10.1,15.84,2015.0,San Antonio Spurs
+7,7.1,14.22,2014.0,San Antonio Spurs
+8,-0.5,13.17,2013.0,San Antonio Spurs
+9,8.0,14.62,2012.0,San Antonio Spurs
+10,-2.9,13.61,2011.0,San Antonio Spurs
+11,-5.5,11.0,2010.0,San Antonio Spurs
+12,6.5,14.52,2009.0,San Antonio Spurs
+13,0.4,15.62,2008.0,San Antonio Spurs
+14,-2.4,12.29,2007.0,San Antonio Spurs
+15,6.7,14.05,2006.0,San Antonio Spurs
+16,9.1,14.74,2005.0,San Antonio Spurs
+17,-3.4,13.58,2004.0,San Antonio Spurs
+18,-4.7,10.95,2003.0,San Antonio Spurs
+19,-8.4,12.03,2002.0,San Antonio Spurs
+20,7.6,13.33,2001.0,San Antonio Spurs
+21,8.9,14.19,2000.0,San Antonio Spurs
+22,8.8,13.83,1999.0,San Antonio Spurs
+23,7.4,15.21,1998.0,San Antonio Spurs
+24,5.2,12.79,1997.0,San Antonio Spurs
+25,-7.1,12.37,1996.0,San Antonio Spurs
+26,4.7,12.98,1995.0,San Antonio Spurs
+27,-2.5,11.5,1994.0,San Antonio Spurs
+28,3.5,15.85,1993.0,San Antonio Spurs
+29,3.0,12.09,1992.0,San Antonio Spurs
+30,-9.6,12.57,1991.0,San Antonio Spurs
+31,4.5,12.13,1990.0,San Antonio Spurs
+32,-1.9,10.91,1989.0,San Antonio Spurs
+33,-38.8,7.35,1988.0,San Antonio Spurs
+34,6.1,12.74,1987.0,San Antonio Spurs
+35,-2.2,12.14,1986.0,San Antonio Spurs
+36,-5.1,11.58,1985.0,San Antonio Spurs
+37,-11.4,11.94,1984.0,San Antonio Spurs
+38,1.6,13.04,1983.0,San Antonio Spurs
+39,1.7,12.36,1982.0,San Antonio Spurs
+0,-1.2,13.95,2021.0,New Orleans Pelicans
+1,-35.1,9.2,2020.0,New Orleans Pelicans
+2,-5.0,12.9,2019.0,New Orleans Pelicans
+3,2.0,12.61,2018.0,New Orleans Pelicans
+4,-5.1,10.76,2017.0,New Orleans Pelicans
+5,4.7,12.83,2016.0,New Orleans Pelicans
+6,-2.1,12.03,2015.0,New Orleans Pelicans
+7,-16.6,10.3,2014.0,New Orleans Pelicans
+8,0.5,12.46,2013.0,New Orleans Pelicans
+9,-6.8,12.85,2012.0,New Orleans Pelicans
+10,-0.9,12.24,2011.0,New Orleans Pelicans
+11,-0.1,11.28,2010.0,New Orleans Pelicans
+12,7.5,13.19,2009.0,New Orleans Pelicans
+13,5.8,12.34,2008.0,New Orleans Pelicans
+14,5.7,12.92,2007.0,New Orleans Pelicans
+15,6.9,13.22,2006.0,New Orleans Pelicans
+16,-6.1,11.41,2005.0,New Orleans Pelicans
+17,-8.0,10.59,2004.0,New Orleans Pelicans
+18,-9.2,10.98,2003.0,New Orleans Pelicans
+19,-9.1,12.67,2002.0,New Orleans Pelicans
+20,-9.2,10.98,2001.0,New Orleans Pelicans
+21,-9.1,12.67,2000.0,New Orleans Pelicans
+22,-9.2,10.98,1999.0,New Orleans Pelicans
+23,-9.1,12.67,1998.0,New Orleans Pelicans
+24,-9.2,10.98,1997.0,New Orleans Pelicans
+25,-9.1,12.67,1996.0,New Orleans Pelicans
+26,-9.2,10.98,1995.0,New Orleans Pelicans
+27,-9.1,12.67,1994.0,New Orleans Pelicans
+28,-9.2,10.98,1993.0,New Orleans Pelicans
+29,-9.1,12.67,1992.0,New Orleans Pelicans
+30,-9.2,10.98,1991.0,New Orleans Pelicans
+31,-9.1,12.67,1990.0,New Orleans Pelicans
+32,-9.2,10.98,1989.0,New Orleans Pelicans
+33,-9.1,12.67,1988.0,New Orleans Pelicans
+34,-9.2,10.98,1987.0,New Orleans Pelicans
+35,-9.1,12.67,1986.0,New Orleans Pelicans
+36,-9.2,10.98,1985.0,New Orleans Pelicans
+37,-9.1,12.67,1984.0,New Orleans Pelicans
+38,-9.2,10.98,1983.0,New Orleans Pelicans
+39,-9.1,12.67,1982.0,New Orleans Pelicans
+0,8.3,15.58,2021.0,Los Angeles Clippers
+1,1.4,13.8,2020.0,Los Angeles Clippers
+2,4.8,14.09,2019.0,Los Angeles Clippers
+3,4.3,12.5,2018.0,Los Angeles Clippers
+4,7.2,14.86,2017.0,Los Angeles Clippers
+5,-1.2,13.48,2016.0,Los Angeles Clippers
+6,7.1,13.43,2015.0,Los Angeles Clippers
+7,1.9,12.08,2014.0,Los Angeles Clippers
+8,0.1,11.85,2013.0,Los Angeles Clippers
+9,4.3,14.35,2012.0,Los Angeles Clippers
+10,0.0,12.06,2011.0,Los Angeles Clippers
+11,1.8,12.33,2010.0,Los Angeles Clippers
+12,4.8,11.77,2009.0,Los Angeles Clippers
+13,6.1,11.87,2008.0,Los Angeles Clippers
+14,5.5,12.15,2007.0,Los Angeles Clippers
+15,-40.7,7.76,2006.0,Los Angeles Clippers
+16,-5.5,11.31,2005.0,Los Angeles Clippers
+17,-4.3,10.53,2004.0,Los Angeles Clippers
+18,-9.2,11.81,2003.0,Los Angeles Clippers
+19,7.7,13.35,2002.0,Los Angeles Clippers
+20,4.8,12.35,2001.0,Los Angeles Clippers
+21,5.7,13.05,2000.0,Los Angeles Clippers
+22,-25.5,9.88,1999.0,Los Angeles Clippers
+23,7.1,13.26,1998.0,Los Angeles Clippers
+24,7.8,13.46,1997.0,Los Angeles Clippers
+25,6.1,13.41,1996.0,Los Angeles Clippers
+26,1.8,12.66,1995.0,Los Angeles Clippers
+27,3.3,12.29,1994.0,Los Angeles Clippers
+28,6.9,13.17,1993.0,Los Angeles Clippers
+29,-32.3,9.66,1992.0,Los Angeles Clippers
+30,4.0,11.56,1991.0,Los Angeles Clippers
+31,2.1,11.54,1990.0,Los Angeles Clippers
+32,-4.8,10.82,1989.0,Los Angeles Clippers
+33,-30.2,9.46,1988.0,Los Angeles Clippers
+34,2.9,11.48,1987.0,Los Angeles Clippers
+35,-11.4,10.64,1986.0,Los Angeles Clippers
+36,-7.1,11.09,1985.0,Los Angeles Clippers
+37,-0.9,11.71,1984.0,Los Angeles Clippers
+38,-8.4,10.8,1983.0,Los Angeles Clippers
+39,6.3,12.45,1982.0,Los Angeles Clippers
+0,3.7,12.9,2021.0,Denver Nuggets
+1,-10.2,11.55,2020.0,Denver Nuggets
+2,5.3,13.74,2019.0,Denver Nuggets
+3,2.3,12.74,2018.0,Denver Nuggets
+4,0.0,13.8,2017.0,Denver Nuggets
+5,3.1,15.23,2016.0,Denver Nuggets
+6,0.9,12.27,2015.0,Denver Nuggets
+7,4.9,12.82,2014.0,Denver Nuggets
+8,8.6,13.61,2013.0,Denver Nuggets
+9,5.9,15.27,2012.0,Denver Nuggets
+10,9.0,16.31,2011.0,Denver Nuggets
+11,5.4,14.73,2010.0,Denver Nuggets
+12,5.9,13.61,2009.0,Denver Nuggets
+13,-3.9,11.99,2008.0,Denver Nuggets
+14,-1.6,11.34,2007.0,Denver Nuggets
+15,3.3,13.12,2006.0,Denver Nuggets
+16,-54.4,7.56,2005.0,Denver Nuggets
+17,2.5,15.0,2004.0,Denver Nuggets
+18,-9.0,11.65,2003.0,Denver Nuggets
+19,-5.0,10.05,2002.0,Denver Nuggets
+20,8.0,13.9,2001.0,Denver Nuggets
+21,-21.3,10.6,2000.0,Denver Nuggets
+22,-15.2,11.63,1999.0,Denver Nuggets
+23,-7.6,16.17,1998.0,Denver Nuggets
+24,5.1,12.77,1997.0,Denver Nuggets
+25,-5.1,11.28,1996.0,Denver Nuggets
+26,-11.2,11.01,1995.0,Denver Nuggets
+27,4.4,13.94,1994.0,Denver Nuggets
+28,-3.7,10.3,1993.0,Denver Nuggets
+29,7.7,12.2,1992.0,Denver Nuggets
+30,5.4,12.09,1991.0,Denver Nuggets
+31,6.4,13.03,1990.0,Denver Nuggets
+32,8.3,13.92,1989.0,Denver Nuggets
+33,4.7,13.01,1988.0,Denver Nuggets
+34,-24.7,11.43,1987.0,Denver Nuggets
+35,2.2,12.86,1986.0,Denver Nuggets
+36,8.7,13.98,1985.0,Denver Nuggets
+37,9.8,14.79,1984.0,Denver Nuggets
+38,3.6,12.93,1983.0,Denver Nuggets
+39,8.9,13.76,1982.0,Denver Nuggets
+0,-23.8,11.39,2021.0,Utah Jazz
+1,6.4,13.47,2020.0,Utah Jazz
+2,-13.7,11.01,2019.0,Utah Jazz
+3,2.2,13.37,2018.0,Utah Jazz
+4,-8.9,18.68,2017.0,Utah Jazz
+5,8.5,14.49,2016.0,Utah Jazz
+6,1.3,12.44,2015.0,Utah Jazz
+7,-41.7,10.42,2014.0,Utah Jazz
+8,1.9,10.78,2013.0,Utah Jazz
+9,-4.5,13.59,2012.0,Utah Jazz
+10,-7.3,13.05,2011.0,Utah Jazz
+11,5.5,13.25,2010.0,Utah Jazz
+12,7.7,14.21,2009.0,Utah Jazz
+13,5.8,13.52,2008.0,Utah Jazz
+14,2.0,12.77,2007.0,Utah Jazz
+15,-8.3,10.88,2006.0,Utah Jazz
+16,5.2,12.45,2005.0,Utah Jazz
+17,-1.5,12.06,2004.0,Utah Jazz
+18,5.1,12.41,2003.0,Utah Jazz
+19,3.1,13.22,2002.0,Utah Jazz
+20,5.4,12.96,2001.0,Utah Jazz
+21,4.3,13.42,2000.0,Utah Jazz
+22,5.7,12.85,1999.0,Utah Jazz
+23,-1.9,12.04,1998.0,Utah Jazz
+24,6.9,14.74,1997.0,Utah Jazz
+25,-9.1,12.92,1996.0,Utah Jazz
+26,4.4,13.04,1995.0,Utah Jazz
+27,-3.2,12.97,1994.0,Utah Jazz
+28,-17.0,13.23,1993.0,Utah Jazz
+29,4.9,12.79,1992.0,Utah Jazz
+30,1.7,13.2,1991.0,Utah Jazz
+31,6.0,12.21,1990.0,Utah Jazz
+32,-20.2,10.67,1989.0,Utah Jazz
+33,-24.7,8.46,1988.0,Utah Jazz
+34,-10.6,11.02,1987.0,Utah Jazz
+35,7.8,13.95,1986.0,Utah Jazz
+36,5.1,12.15,1985.0,Utah Jazz
+37,1.5,12.18,1984.0,Utah Jazz
+38,7.6,13.75,1983.0,Utah Jazz
+39,5.9,13.55,1982.0,Utah Jazz
+0,-12.3,11.6,2021.0,Dallas Mavericks
+1,4.9,12.83,2020.0,Dallas Mavericks
+2,1.7,14.31,2019.0,Dallas Mavericks
+3,-0.9,11.93,2018.0,Dallas Mavericks
+4,-12.5,11.05,2017.0,Dallas Mavericks
+5,-17.6,10.98,2016.0,Dallas Mavericks
+6,7.2,14.93,2015.0,Dallas Mavericks
+7,-22.5,13.54,2014.0,Dallas Mavericks
+8,5.4,14.43,2013.0,Dallas Mavericks
+9,-19.4,10.79,2012.0,Dallas Mavericks
+10,-3.4,12.99,2011.0,Dallas Mavericks
+11,7.8,14.27,2010.0,Dallas Mavericks
+12,3.2,13.33,2009.0,Dallas Mavericks
+13,0.5,12.3,2008.0,Dallas Mavericks
+14,-4.4,11.24,2007.0,Dallas Mavericks
+15,2.9,12.51,2006.0,Dallas Mavericks
+16,2.3,13.28,2005.0,Dallas Mavericks
+17,-12.1,11.56,2004.0,Dallas Mavericks
+18,-8.1,14.36,2003.0,Dallas Mavericks
+19,-2.4,12.73,2002.0,Dallas Mavericks
+20,-11.2,12.23,2001.0,Dallas Mavericks
+21,-20.0,10.59,2000.0,Dallas Mavericks
+22,-9.2,11.55,1999.0,Dallas Mavericks
+23,-8.8,12.69,1998.0,Dallas Mavericks
+24,0.0,11.93,1997.0,Dallas Mavericks
+25,3.3,11.62,1996.0,Dallas Mavericks
+26,2.4,12.22,1995.0,Dallas Mavericks
+27,8.1,13.52,1994.0,Dallas Mavericks
+28,4.1,11.66,1993.0,Dallas Mavericks
+29,5.7,11.48,1992.0,Dallas Mavericks
+30,1.0,11.68,1991.0,Dallas Mavericks
+31,10.3,16.43,1990.0,Dallas Mavericks
+32,3.0,13.65,1989.0,Dallas Mavericks
+33,7.2,13.84,1988.0,Dallas Mavericks
+34,4.4,14.3,1987.0,Dallas Mavericks
+35,7.1,14.89,1986.0,Dallas Mavericks
+36,5.3,14.07,1985.0,Dallas Mavericks
+37,-7.4,12.59,1984.0,Dallas Mavericks
+38,2.6,12.92,1983.0,Dallas Mavericks
+39,6.0,13.75,1982.0,Dallas Mavericks
+0,4.4,13.7,2021.0,Golden State Warriors
+1,5.6,13.36,2020.0,Golden State Warriors
+2,3.7,12.52,2019.0,Golden State Warriors
+3,3.5,15.05,2018.0,Golden State Warriors
+4,-28.5,13.3,2017.0,Golden State Warriors
+5,5.3,14.59,2016.0,Golden State Warriors
+6,10.1,15.66,2015.0,Golden State Warriors
+7,0.8,15.46,2014.0,Golden State Warriors
+8,-5.1,11.84,2013.0,Golden State Warriors
+9,6.1,11.93,2012.0,Golden State Warriors
+10,4.7,13.15,2011.0,Golden State Warriors
+11,4.7,13.06,2010.0,Golden State Warriors
+12,7.1,14.43,2009.0,Golden State Warriors
+13,3.7,13.54,2008.0,Golden State Warriors
+14,5.2,13.18,2007.0,Golden State Warriors
+15,-3.7,13.5,2006.0,Golden State Warriors
+16,6.0,12.51,2005.0,Golden State Warriors
+17,3.1,12.82,2004.0,Golden State Warriors
+18,-7.8,10.88,2003.0,Golden State Warriors
+19,-9.0,12.22,2002.0,Golden State Warriors
+20,2.0,12.61,2001.0,Golden State Warriors
+21,-3.7,10.76,2000.0,Golden State Warriors
+22,3.0,11.87,1999.0,Golden State Warriors
+23,-2.3,12.32,1998.0,Golden State Warriors
+24,2.9,11.12,1997.0,Golden State Warriors
+25,-7.2,10.97,1996.0,Golden State Warriors
+26,1.2,13.14,1995.0,Golden State Warriors
+27,6.1,13.42,1994.0,Golden State Warriors
+28,1.5,13.09,1993.0,Golden State Warriors
+29,2.9,12.87,1992.0,Golden State Warriors
+30,0.0,12.78,1991.0,Golden State Warriors
+31,0.7,11.55,1990.0,Golden State Warriors
+32,2.5,11.24,1989.0,Golden State Warriors
+33,2.5,13.68,1988.0,Golden State Warriors
+34,4.5,12.46,1987.0,Golden State Warriors
+35,5.4,12.61,1986.0,Golden State Warriors
+36,-31.1,10.34,1985.0,Golden State Warriors
+37,7.4,12.88,1984.0,Golden State Warriors
+38,5.3,12.66,1983.0,Golden State Warriors
+39,4.2,12.41,1982.0,Golden State Warriors
+0,-7.1,11.96,2021.0,Memphis Grizzlies
+1,-0.5,13.34,2020.0,Memphis Grizzlies
+2,-0.1,13.54,2019.0,Memphis Grizzlies
+3,3.3,12.19,2018.0,Memphis Grizzlies
+4,0.9,13.86,2017.0,Memphis Grizzlies
+5,6.2,12.17,2016.0,Memphis Grizzlies
+6,3.3,14.04,2015.0,Memphis Grizzlies
+7,-0.7,14.83,2014.0,Memphis Grizzlies
+8,0.0,13.18,2013.0,Memphis Grizzlies
+9,-7.7,11.71,2012.0,Memphis Grizzlies
+10,-14.7,10.66,2011.0,Memphis Grizzlies
+11,0.4,13.02,2010.0,Memphis Grizzlies
+12,5.9,14.08,2009.0,Memphis Grizzlies
+13,-6.3,11.99,2008.0,Memphis Grizzlies
+14,-18.1,10.76,2007.0,Memphis Grizzlies
+15,0.9,12.63,2006.0,Memphis Grizzlies
+16,3.8,12.79,2005.0,Memphis Grizzlies
+17,0.9,13.25,2004.0,Memphis Grizzlies
+18,-4.5,11.42,2003.0,Memphis Grizzlies
+19,-1.4,12.86,2002.0,Memphis Grizzlies
+20,-0.9,10.44,2001.0,Memphis Grizzlies
+21,4.2,11.99,2000.0,Memphis Grizzlies
+22,7.5,11.85,1999.0,Memphis Grizzlies
+23,-1.7,10.14,1998.0,Memphis Grizzlies
+24,4.7,12.99,1997.0,Memphis Grizzlies
+25,6.3,11.91,1996.0,Memphis Grizzlies
+26,6.9,12.24,1995.0,Memphis Grizzlies
+27,6.3,11.91,1994.0,Memphis Grizzlies
+28,6.9,12.24,1993.0,Memphis Grizzlies
+29,6.3,11.91,1992.0,Memphis Grizzlies
+30,6.9,12.24,1991.0,Memphis Grizzlies
+31,6.3,11.91,1990.0,Memphis Grizzlies
+32,6.9,12.24,1989.0,Memphis Grizzlies
+33,6.3,11.91,1988.0,Memphis Grizzlies
+34,6.9,12.24,1987.0,Memphis Grizzlies
+35,6.3,11.91,1986.0,Memphis Grizzlies
+36,6.9,12.24,1985.0,Memphis Grizzlies
+37,6.3,11.91,1984.0,Memphis Grizzlies
+38,6.9,12.24,1983.0,Memphis Grizzlies
+39,6.3,11.91,1982.0,Memphis Grizzlies
+0,-3.3,12.2,2021.0,Phoenix Suns
+1,4.2,13.61,2020.0,Phoenix Suns
+2,-5.3,11.85,2019.0,Phoenix Suns
+3,0.7,10.76,2018.0,Phoenix Suns
+4,4.8,12.79,2017.0,Phoenix Suns
+5,-3.4,12.17,2016.0,Phoenix Suns
+6,-3.3,11.77,2015.0,Phoenix Suns
+7,-11.4,9.81,2014.0,Phoenix Suns
+8,7.3,13.46,2013.0,Phoenix Suns
+9,5.6,12.04,2012.0,Phoenix Suns
+10,8.4,14.21,2011.0,Phoenix Suns
+11,-9.1,12.58,2010.0,Phoenix Suns
+12,1.4,13.25,2009.0,Phoenix Suns
+13,-26.0,10.92,2008.0,Phoenix Suns
+14,6.2,14.06,2007.0,Phoenix Suns
+15,3.2,13.21,2006.0,Phoenix Suns
+16,0.6,14.7,2005.0,Phoenix Suns
+17,4.3,13.63,2004.0,Phoenix Suns
+18,-14.8,10.69,2003.0,Phoenix Suns
+19,-2.2,11.47,2002.0,Phoenix Suns
+20,-2.2,11.85,2001.0,Phoenix Suns
+21,5.8,12.42,2000.0,Phoenix Suns
+22,4.3,12.76,1999.0,Phoenix Suns
+23,2.7,13.22,1998.0,Phoenix Suns
+24,8.6,14.89,1997.0,Phoenix Suns
+25,1.2,12.62,1996.0,Phoenix Suns
+26,-0.6,13.71,1995.0,Phoenix Suns
+27,0.3,14.61,1994.0,Phoenix Suns
+28,-0.7,13.15,1993.0,Phoenix Suns
+29,4.6,14.15,1992.0,Phoenix Suns
+30,10.6,14.72,1991.0,Phoenix Suns
+31,8.6,18.51,1990.0,Phoenix Suns
+32,-6.5,12.24,1989.0,Phoenix Suns
+33,-20.3,10.2,1988.0,Phoenix Suns
+34,4.3,12.54,1987.0,Phoenix Suns
+35,7.2,13.16,1986.0,Phoenix Suns
+36,-0.3,10.52,1985.0,Phoenix Suns
+37,-2.6,12.09,1984.0,Phoenix Suns
+38,4.5,13.61,1983.0,Phoenix Suns
+39,6.8,13.09,1982.0,Phoenix Suns
+0,0.5,10.61,2021.0,Orlando Magic
+1,1.3,12.21,2020.0,Orlando Magic
+2,3.7,12.04,2019.0,Orlando Magic
+3,1.2,14.31,2018.0,Orlando Magic
+4,1.1,12.3,2017.0,Orlando Magic
+5,-9.2,10.44,2016.0,Orlando Magic
+6,-4.8,12.56,2015.0,Orlando Magic
+7,5.9,12.16,2014.0,Orlando Magic
+8,5.8,11.82,2013.0,Orlando Magic
+9,3.4,12.22,2012.0,Orlando Magic
+10,-4.8,11.34,2011.0,Orlando Magic
+11,3.3,12.31,2010.0,Orlando Magic
+12,11.9,15.41,2009.0,Orlando Magic
+13,2.8,13.34,2008.0,Orlando Magic
+14,3.2,13.24,2007.0,Orlando Magic
+15,6.4,13.27,2006.0,Orlando Magic
+16,5.1,13.42,2005.0,Orlando Magic
+17,4.4,12.11,2004.0,Orlando Magic
+18,0.5,11.96,2003.0,Orlando Magic
+19,2.9,12.82,2002.0,Orlando Magic
+20,-3.2,12.19,2001.0,Orlando Magic
+21,5.1,12.14,2000.0,Orlando Magic
+22,-3.9,14.12,1999.0,Orlando Magic
+23,-15.2,8.22,1998.0,Orlando Magic
+24,-5.1,11.98,1997.0,Orlando Magic
+25,1.9,11.89,1996.0,Orlando Magic
+26,3.6,14.39,1995.0,Orlando Magic
+27,-6.2,15.03,1994.0,Orlando Magic
+28,-7.9,11.68,1993.0,Orlando Magic
+29,3.2,13.09,1992.0,Orlando Magic
+30,-4.6,11.38,1991.0,Orlando Magic
+31,1.0,12.19,1990.0,Orlando Magic
+32,3.2,12.34,1989.0,Orlando Magic
+33,1.0,12.19,1988.0,Orlando Magic
+34,3.2,12.34,1987.0,Orlando Magic
+35,1.0,12.19,1986.0,Orlando Magic
+36,3.2,12.34,1985.0,Orlando Magic
+37,1.0,12.19,1984.0,Orlando Magic
+38,3.2,12.34,1983.0,Orlando Magic
+39,1.0,12.19,1982.0,Orlando Magic
+0,-22.2,9.67,2021.0,Detroit Pistons
+1,5.3,13.06,2020.0,Detroit Pistons
+2,0.8,11.77,2019.0,Detroit Pistons
+3,-10.0,11.22,2018.0,Detroit Pistons
+4,-15.5,11.35,2017.0,Detroit Pistons
+5,-2.1,13.06,2016.0,Detroit Pistons
+6,6.9,13.17,2015.0,Detroit Pistons
+7,1.6,13.04,2014.0,Detroit Pistons
+8,5.3,13.11,2013.0,Detroit Pistons
+9,7.9,13.66,2012.0,Detroit Pistons
+10,6.9,12.84,2011.0,Detroit Pistons
+11,4.4,14.06,2010.0,Detroit Pistons
+12,7.5,13.04,2009.0,Detroit Pistons
+13,4.8,14.06,2008.0,Detroit Pistons
+14,0.0,13.47,2007.0,Detroit Pistons
+15,4.5,14.6,2006.0,Detroit Pistons
+16,-2.4,13.19,2005.0,Detroit Pistons
+17,1.2,11.0,2004.0,Detroit Pistons
+18,-7.7,11.79,2003.0,Detroit Pistons
+19,-17.3,11.93,2002.0,Detroit Pistons
+20,6.2,14.23,2001.0,Detroit Pistons
+21,4.7,12.17,2000.0,Detroit Pistons
+22,-1.5,10.77,1999.0,Detroit Pistons
+23,-0.4,14.76,1998.0,Detroit Pistons
+24,7.8,13.22,1997.0,Detroit Pistons
+25,2.4,13.31,1996.0,Detroit Pistons
+26,7.2,12.2,1995.0,Detroit Pistons
+27,3.0,12.24,1994.0,Detroit Pistons
+28,6.6,13.16,1993.0,Detroit Pistons
+29,0.1,12.13,1992.0,Detroit Pistons
+30,6.1,12.34,1991.0,Detroit Pistons
+31,5.9,13.29,1990.0,Detroit Pistons
+32,-17.0,11.24,1989.0,Detroit Pistons
+33,7.7,13.84,1988.0,Detroit Pistons
+34,-5.7,9.96,1987.0,Detroit Pistons
+35,-20.3,14.09,1986.0,Detroit Pistons
+36,-31.9,9.75,1985.0,Detroit Pistons
+37,-10.9,9.83,1984.0,Detroit Pistons
+38,5.6,12.84,1983.0,Detroit Pistons
+39,-0.8,11.34,1982.0,Detroit Pistons
+0,-45.2,13.53,2021.0,Indiana Pacers
+1,1.0,13.25,2020.0,Indiana Pacers
+2,0.1,12.96,2019.0,Indiana Pacers
+3,-6.0,12.44,2018.0,Indiana Pacers
+4,-2.3,14.02,2017.0,Indiana Pacers
+5,0.1,12.76,2016.0,Indiana Pacers
+6,7.4,14.56,2015.0,Indiana Pacers
+7,7.4,14.33,2014.0,Indiana Pacers
+8,6.1,13.25,2013.0,Indiana Pacers
+9,-6.0,11.05,2012.0,Indiana Pacers
+10,7.0,14.95,2011.0,Indiana Pacers
+11,5.5,12.67,2010.0,Indiana Pacers
+12,7.9,12.94,2009.0,Indiana Pacers
+13,8.5,13.98,2008.0,Indiana Pacers
+14,1.1,13.21,2007.0,Indiana Pacers
+15,-1.3,11.52,2006.0,Indiana Pacers
+16,-6.2,13.79,2005.0,Indiana Pacers
+17,0.4,12.08,2004.0,Indiana Pacers
+18,4.9,13.13,2003.0,Indiana Pacers
+19,5.5,13.91,2002.0,Indiana Pacers
+20,-10.2,12.08,2001.0,Indiana Pacers
+21,-10.6,10.79,2000.0,Indiana Pacers
+22,7.6,15.42,1999.0,Indiana Pacers
+23,-8.5,12.51,1998.0,Indiana Pacers
+24,-10.3,11.41,1997.0,Indiana Pacers
+25,-1.5,12.07,1996.0,Indiana Pacers
+26,10.2,13.9,1995.0,Indiana Pacers
+27,-2.6,12.48,1994.0,Indiana Pacers
+28,5.2,13.33,1993.0,Indiana Pacers
+29,5.0,14.35,1992.0,Indiana Pacers
+30,5.4,12.79,1991.0,Indiana Pacers
+31,7.4,12.93,1990.0,Indiana Pacers
+32,4.6,12.29,1989.0,Indiana Pacers
+33,-14.9,11.06,1988.0,Indiana Pacers
+34,8.2,13.08,1987.0,Indiana Pacers
+35,5.2,11.99,1986.0,Indiana Pacers
+36,8.3,12.81,1985.0,Indiana Pacers
+37,3.3,11.69,1984.0,Indiana Pacers
+38,-2.0,11.99,1983.0,Indiana Pacers
+39,8.2,13.77,1982.0,Indiana Pacers
+0,-20.4,11.72,2021.0,Washington Wizards
+1,-40.6,10.27,2020.0,Washington Wizards
+2,6.1,12.76,2019.0,Washington Wizards
+3,-4.5,13.73,2018.0,Washington Wizards
+4,8.8,14.03,2017.0,Washington Wizards
+5,1.1,12.05,2016.0,Washington Wizards
+6,5.4,12.88,2015.0,Washington Wizards
+7,-3.6,11.26,2014.0,Washington Wizards
+8,6.0,12.48,2013.0,Washington Wizards
+9,0.2,10.95,2012.0,Washington Wizards
+10,-13.1,11.93,2011.0,Washington Wizards
+11,1.1,11.19,2010.0,Washington Wizards
+12,-0.2,12.59,2009.0,Washington Wizards
+13,6.9,13.09,2008.0,Washington Wizards
+14,6.6,14.06,2007.0,Washington Wizards
+15,3.1,12.25,2006.0,Washington Wizards
+16,8.1,12.67,2005.0,Washington Wizards
+17,3.1,12.16,2004.0,Washington Wizards
+18,-13.4,11.29,2003.0,Washington Wizards
+19,8.3,13.51,2002.0,Washington Wizards
+20,10.7,14.36,2001.0,Washington Wizards
+21,8.1,13.47,2000.0,Washington Wizards
+22,4.4,13.36,1999.0,Washington Wizards
+23,0.0,11.97,1998.0,Washington Wizards
+24,-4.5,11.91,1997.0,Washington Wizards
+25,-3.7,10.81,1996.0,Washington Wizards
+26,-12.5,14.66,1995.0,Washington Wizards
+27,6.6,12.73,1994.0,Washington Wizards
+28,1.8,12.92,1993.0,Washington Wizards
+29,7.8,16.02,1992.0,Washington Wizards
+30,3.2,11.62,1991.0,Washington Wizards
+31,7.2,12.48,1990.0,Washington Wizards
+32,8.2,14.0,1989.0,Washington Wizards
+33,5.9,12.7,1988.0,Washington Wizards
+34,6.6,13.1,1987.0,Washington Wizards
+35,5.8,13.08,1986.0,Washington Wizards
+36,8.2,13.95,1985.0,Washington Wizards
+37,-2.7,12.31,1984.0,Washington Wizards
+38,-5.5,11.01,1983.0,Washington Wizards
+39,1.6,10.85,1982.0,Washington Wizards
+0,-20.0,8.56,2021.0,New York Knicks
+1,-10.8,10.91,2020.0,New York Knicks
+2,3.2,12.41,2019.0,New York Knicks
+3,2.9,12.79,2018.0,New York Knicks
+4,-41.1,10.98,2017.0,New York Knicks
+5,7.5,13.5,2016.0,New York Knicks
+6,2.2,16.12,2015.0,New York Knicks
+7,7.6,13.01,2014.0,New York Knicks
+8,0.0,13.2,2013.0,New York Knicks
+9,-5.7,13.01,2012.0,New York Knicks
+10,-4.3,12.78,2011.0,New York Knicks
+11,-1.2,12.71,2010.0,New York Knicks
+12,-1.9,12.41,2009.0,New York Knicks
+13,-12.6,12.35,2008.0,New York Knicks
+14,4.3,13.96,2007.0,New York Knicks
+15,1.5,12.17,2006.0,New York Knicks
+16,2.0,11.67,2005.0,New York Knicks
+17,-6.5,14.37,2004.0,New York Knicks
+18,-6.6,13.57,2003.0,New York Knicks
+19,6.4,12.66,2002.0,New York Knicks
+20,0.8,11.02,2001.0,New York Knicks
+21,0.9,11.48,2000.0,New York Knicks
+22,-5.0,10.01,1999.0,New York Knicks
+23,3.9,13.52,1998.0,New York Knicks
+24,6.1,13.26,1997.0,New York Knicks
+25,6.4,12.78,1996.0,New York Knicks
+26,7.9,13.84,1995.0,New York Knicks
+27,-5.4,10.62,1994.0,New York Knicks
+28,0.6,13.56,1993.0,New York Knicks
+29,8.7,12.9,1992.0,New York Knicks
+30,-9.0,10.43,1991.0,New York Knicks
+31,5.1,12.56,1990.0,New York Knicks
+32,-4.9,11.27,1989.0,New York Knicks
+33,4.7,13.78,1988.0,New York Knicks
+34,-1.7,9.58,1987.0,New York Knicks
+35,4.1,11.76,1986.0,New York Knicks
+36,-5.4,11.36,1985.0,New York Knicks
+37,4.1,12.09,1984.0,New York Knicks
+38,6.1,12.95,1983.0,New York Knicks
+39,5.4,13.42,1982.0,New York Knicks
+0,-10.7,13.27,2021.0,Charlotte Hornets
+1,5.5,13.52,2020.0,Charlotte Hornets
+2,-2.9,11.58,2019.0,Charlotte Hornets
+3,-6.6,12.29,2018.0,Charlotte Hornets
+4,5.8,13.92,2017.0,Charlotte Hornets
+5,-2.2,12.42,2016.0,Charlotte Hornets
+6,4.3,14.25,2015.0,Charlotte Hornets
+7,8.2,13.28,2014.0,Charlotte Hornets
+8,-40.6,9.11,2013.0,Charlotte Hornets
+9,2.9,12.19,2012.0,Charlotte Hornets
+10,3.4,10.58,2011.0,Charlotte Hornets
+11,0.3,11.62,2010.0,Charlotte Hornets
+12,6.3,12.2,2009.0,Charlotte Hornets
+13,-1.5,10.13,2008.0,Charlotte Hornets
+14,1.5,11.65,2007.0,Charlotte Hornets
+15,2.4,11.36,2006.0,Charlotte Hornets
+16,5.1,13.03,2005.0,Charlotte Hornets
+17,1.5,12.07,2004.0,Charlotte Hornets
+18,5.1,13.03,2003.0,Charlotte Hornets
+19,1.5,12.07,2002.0,Charlotte Hornets
+20,5.1,13.03,2001.0,Charlotte Hornets
+21,1.5,12.07,2000.0,Charlotte Hornets
+22,5.1,13.03,1999.0,Charlotte Hornets
+23,1.5,12.07,1998.0,Charlotte Hornets
+24,5.1,13.03,1997.0,Charlotte Hornets
+25,1.5,12.07,1996.0,Charlotte Hornets
+26,5.1,13.03,1995.0,Charlotte Hornets
+27,1.5,12.07,1994.0,Charlotte Hornets
+28,5.1,13.03,1993.0,Charlotte Hornets
+29,1.5,12.07,1992.0,Charlotte Hornets
+30,5.1,13.03,1991.0,Charlotte Hornets
+31,1.5,12.07,1990.0,Charlotte Hornets
+32,5.1,13.03,1989.0,Charlotte Hornets
+33,1.5,12.07,1988.0,Charlotte Hornets
+34,5.1,13.03,1987.0,Charlotte Hornets
+35,1.5,12.07,1986.0,Charlotte Hornets
+36,5.1,13.03,1985.0,Charlotte Hornets
+37,1.5,12.07,1984.0,Charlotte Hornets
+38,5.1,13.03,1983.0,Charlotte Hornets
+39,1.5,12.07,1982.0,Charlotte Hornets
+0,-11.2,11.87,2021.0,Atlanta Hawks
+1,-5.7,12.95,2020.0,Atlanta Hawks
+2,-7.1,10.78,2019.0,Atlanta Hawks
+3,1.5,12.99,2018.0,Atlanta Hawks
+4,-4.6,11.02,2017.0,Atlanta Hawks
+5,-4.3,10.65,2016.0,Atlanta Hawks
+6,4.7,13.14,2015.0,Atlanta Hawks
+7,2.9,14.25,2014.0,Atlanta Hawks
+8,-1.8,12.07,2013.0,Atlanta Hawks
+9,5.4,12.92,2012.0,Atlanta Hawks
+10,3.7,13.29,2011.0,Atlanta Hawks
+11,5.4,12.16,2010.0,Atlanta Hawks
+12,0.9,13.19,2009.0,Atlanta Hawks
+13,1.5,11.89,2008.0,Atlanta Hawks
+14,3.7,11.71,2007.0,Atlanta Hawks
+15,-0.1,11.85,2006.0,Atlanta Hawks
+16,3.1,12.72,2005.0,Atlanta Hawks
+17,6.2,12.55,2004.0,Atlanta Hawks
+18,2.1,12.16,2003.0,Atlanta Hawks
+19,-28.0,9.72,2002.0,Atlanta Hawks
+20,6.5,12.87,2001.0,Atlanta Hawks
+21,-10.6,9.87,2000.0,Atlanta Hawks
+22,8.8,12.86,1999.0,Atlanta Hawks
+23,4.8,13.86,1998.0,Atlanta Hawks
+24,0.7,13.14,1997.0,Atlanta Hawks
+25,-9.0,10.49,1996.0,Atlanta Hawks
+26,-6.2,13.27,1995.0,Atlanta Hawks
+27,-6.5,12.01,1994.0,Atlanta Hawks
+28,7.6,13.86,1993.0,Atlanta Hawks
+29,-8.8,11.75,1992.0,Atlanta Hawks
+30,7.4,14.91,1991.0,Atlanta Hawks
+31,4.9,12.98,1990.0,Atlanta Hawks
+32,-11.0,13.09,1989.0,Atlanta Hawks
+33,1.9,13.11,1988.0,Atlanta Hawks
+34,9.6,15.01,1987.0,Atlanta Hawks
+35,-49.6,10.19,1986.0,Atlanta Hawks
+36,-5.5,12.91,1985.0,Atlanta Hawks
+37,-1.8,10.73,1984.0,Atlanta Hawks
+38,6.5,12.25,1983.0,Atlanta Hawks
+39,6.6,12.41,1982.0,Atlanta Hawks
+0,-10.3,12.79,2021.0,Cleveland Cavaliers
+1,1.4,12.64,2020.0,Cleveland Cavaliers
+2,-11.4,12.35,2019.0,Cleveland Cavaliers
+3,-0.7,11.0,2018.0,Cleveland Cavaliers
+4,0.7,13.4,2017.0,Cleveland Cavaliers
+5,-35.3,10.98,2016.0,Cleveland Cavaliers
+6,3.4,13.06,2015.0,Cleveland Cavaliers
+7,3.8,11.82,2014.0,Cleveland Cavaliers
+8,-6.5,10.6,2013.0,Cleveland Cavaliers
+9,1.3,12.18,2012.0,Cleveland Cavaliers
+10,2.1,11.26,2011.0,Cleveland Cavaliers
+11,4.8,12.08,2010.0,Cleveland Cavaliers
+12,-38.1,9.59,2009.0,Cleveland Cavaliers
+13,-9.3,12.06,2008.0,Cleveland Cavaliers
+14,-20.8,8.92,2007.0,Cleveland Cavaliers
+15,-0.5,11.87,2006.0,Cleveland Cavaliers
+16,2.0,12.5,2005.0,Cleveland Cavaliers
+17,4.3,12.24,2004.0,Cleveland Cavaliers
+18,-3.8,11.07,2003.0,Cleveland Cavaliers
+19,5.9,11.81,2002.0,Cleveland Cavaliers
+20,3.2,12.43,2001.0,Cleveland Cavaliers
+21,-54.4,9.16,2000.0,Cleveland Cavaliers
+22,-0.4,10.76,1999.0,Cleveland Cavaliers
+23,-19.7,10.82,1998.0,Cleveland Cavaliers
+24,2.1,11.31,1997.0,Cleveland Cavaliers
+25,8.0,12.78,1996.0,Cleveland Cavaliers
+26,3.1,12.84,1995.0,Cleveland Cavaliers
+27,5.1,14.4,1994.0,Cleveland Cavaliers
+28,-0.9,13.12,1993.0,Cleveland Cavaliers
+29,9.6,15.55,1992.0,Cleveland Cavaliers
+30,6.3,13.69,1991.0,Cleveland Cavaliers
+31,-6.8,11.72,1990.0,Cleveland Cavaliers
+32,5.9,13.22,1989.0,Cleveland Cavaliers
+33,8.7,14.4,1988.0,Cleveland Cavaliers
+34,-4.6,12.41,1987.0,Cleveland Cavaliers
+35,1.8,11.59,1986.0,Cleveland Cavaliers
+36,6.7,12.41,1985.0,Cleveland Cavaliers
+37,-2.6,10.89,1984.0,Cleveland Cavaliers
+38,0.9,12.74,1983.0,Cleveland Cavaliers
+39,3.9,12.05,1982.0,Cleveland Cavaliers
+0,-11.3,12.84,2021.0,Brooklyn Nets
+1,-1.0,13.43,2020.0,Brooklyn Nets
+2,4.3,14.81,2019.0,Brooklyn Nets
+3,8.5,18.33,2018.0,Brooklyn Nets
+4,-4.9,12.09,2017.0,Brooklyn Nets
+5,9.3,14.79,2016.0,Brooklyn Nets
+6,3.6,13.82,2015.0,Brooklyn Nets
+7,6.2,15.01,2014.0,Brooklyn Nets
+8,0.5,11.69,2013.0,Brooklyn Nets
+9,-30.2,10.08,2012.0,Brooklyn Nets
+10,6.7,12.29,2011.0,Brooklyn Nets
+11,2.2,11.85,2010.0,Brooklyn Nets
+12,-26.8,10.55,2009.0,Brooklyn Nets
+13,4.4,13.72,2008.0,Brooklyn Nets
+14,5.1,13.43,2007.0,Brooklyn Nets
+15,4.5,12.39,2006.0,Brooklyn Nets
+16,3.3,12.04,2005.0,Brooklyn Nets
+17,5.7,13.65,2004.0,Brooklyn Nets
+18,1.5,13.86,2003.0,Brooklyn Nets
+19,-3.1,9.35,2002.0,Brooklyn Nets
+20,2.8,12.06,2001.0,Brooklyn Nets
+21,3.2,11.22,2000.0,Brooklyn Nets
+22,-1.7,12.86,1999.0,Brooklyn Nets
+23,0.7,12.2,1998.0,Brooklyn Nets
+24,3.8,12.67,1997.0,Brooklyn Nets
+25,6.5,11.86,1996.0,Brooklyn Nets
+26,0.0,10.42,1995.0,Brooklyn Nets
+27,5.8,13.02,1994.0,Brooklyn Nets
+28,9.2,13.83,1993.0,Brooklyn Nets
+29,-4.7,13.32,1992.0,Brooklyn Nets
+30,-9.3,12.87,1991.0,Brooklyn Nets
+31,6.3,14.1,1990.0,Brooklyn Nets
+32,4.2,13.91,1989.0,Brooklyn Nets
+33,7.0,13.72,1988.0,Brooklyn Nets
+34,5.5,13.63,1987.0,Brooklyn Nets
+35,-7.1,10.43,1986.0,Brooklyn Nets
+36,-0.6,13.05,1985.0,Brooklyn Nets
+37,3.9,12.97,1984.0,Brooklyn Nets
+38,6.8,13.4,1983.0,Brooklyn Nets
+39,1.5,12.87,1982.0,Brooklyn Nets
+0,5.6,13.6,2021.0,Chicago Bulls
+1,0.4,12.8,2020.0,Chicago Bulls
+2,8.2,14.62,2019.0,Chicago Bulls
+3,0.0,12.71,2018.0,Chicago Bulls
+4,-13.5,10.74,2017.0,Chicago Bulls
+5,-3.2,12.04,2016.0,Chicago Bulls
+6,6.4,13.05,2015.0,Chicago Bulls
+7,2.1,12.81,2014.0,Chicago Bulls
+8,-9.1,8.77,2013.0,Chicago Bulls
+9,0.0,11.53,2012.0,Chicago Bulls
+10,12.3,15.36,2011.0,Chicago Bulls
+11,-0.1,12.73,2010.0,Chicago Bulls
+12,-2.2,10.95,2009.0,Chicago Bulls
+13,-3.5,12.62,2008.0,Chicago Bulls
+14,-11.8,10.22,2007.0,Chicago Bulls
+15,8.2,12.76,2006.0,Chicago Bulls
+16,-3.0,10.56,2005.0,Chicago Bulls
+17,0.3,11.5,2004.0,Chicago Bulls
+18,-5.5,11.31,2003.0,Chicago Bulls
+19,6.0,12.57,2002.0,Chicago Bulls
+20,6.6,13.23,2001.0,Chicago Bulls
+21,3.3,10.51,2000.0,Chicago Bulls
+22,3.6,10.62,1999.0,Chicago Bulls
+23,5.1,10.57,1998.0,Chicago Bulls
+24,5.5,14.23,1997.0,Chicago Bulls
+25,6.5,14.37,1996.0,Chicago Bulls
+26,1.8,12.97,1995.0,Chicago Bulls
+27,7.7,13.63,1994.0,Chicago Bulls
+28,5.8,12.8,1993.0,Chicago Bulls
+29,1.9,12.85,1992.0,Chicago Bulls
+30,-13.6,10.79,1991.0,Chicago Bulls
+31,10.0,15.22,1990.0,Chicago Bulls
+32,-9.0,11.46,1989.0,Chicago Bulls
+33,0.0,10.93,1988.0,Chicago Bulls
+34,0.0,11.44,1987.0,Chicago Bulls
+35,-5.2,10.95,1986.0,Chicago Bulls
+36,-2.0,13.15,1985.0,Chicago Bulls
+37,6.9,12.5,1984.0,Chicago Bulls
+38,9.2,12.65,1983.0,Chicago Bulls
+39,1.1,12.52,1982.0,Chicago Bulls
+0,-20.0,11.69,2021.0,Toronto Raptors
+1,4.3,12.87,2020.0,Toronto Raptors
+2,6.7,14.88,2019.0,Toronto Raptors
+3,0.9,13.88,2018.0,Toronto Raptors
+4,-0.1,14.63,2017.0,Toronto Raptors
+5,6.0,14.19,2016.0,Toronto Raptors
+6,-7.7,13.63,2015.0,Toronto Raptors
+7,-1.8,12.97,2014.0,Toronto Raptors
+8,1.2,11.57,2013.0,Toronto Raptors
+9,6.0,13.03,2012.0,Toronto Raptors
+10,2.7,11.92,2011.0,Toronto Raptors
+11,0.5,12.77,2010.0,Toronto Raptors
+12,8.6,14.23,2009.0,Toronto Raptors
+13,-7.6,11.24,2008.0,Toronto Raptors
+14,1.1,13.35,2007.0,Toronto Raptors
+15,9.9,14.28,2006.0,Toronto Raptors
+16,-4.7,11.03,2005.0,Toronto Raptors
+17,3.3,12.99,2004.0,Toronto Raptors
+18,1.3,11.67,2003.0,Toronto Raptors
+19,1.6,12.2,2002.0,Toronto Raptors
+20,5.8,13.75,2001.0,Toronto Raptors
+21,-2.2,12.08,2000.0,Toronto Raptors
+22,2.1,11.51,1999.0,Toronto Raptors
+23,-46.6,7.16,1998.0,Toronto Raptors
+24,-7.3,10.82,1997.0,Toronto Raptors
+25,2.4,11.57,1996.0,Toronto Raptors
+26,5.2,12.46,1995.0,Toronto Raptors
+27,2.4,11.57,1994.0,Toronto Raptors
+28,5.2,12.46,1993.0,Toronto Raptors
+29,2.4,11.57,1992.0,Toronto Raptors
+30,5.2,12.46,1991.0,Toronto Raptors
+31,2.4,11.57,1990.0,Toronto Raptors
+32,5.2,12.46,1989.0,Toronto Raptors
+33,2.4,11.57,1988.0,Toronto Raptors
+34,5.2,12.46,1987.0,Toronto Raptors
+35,2.4,11.57,1986.0,Toronto Raptors
+36,5.2,12.46,1985.0,Toronto Raptors
+37,2.4,11.57,1984.0,Toronto Raptors
+38,5.2,12.46,1983.0,Toronto Raptors
+39,2.4,11.57,1982.0,Toronto Raptors
+0,-7.4,12.89,2021.0,Philadelphia 76ers
+1,-12.0,11.76,2020.0,Philadelphia 76ers
+2,-2.0,12.76,2019.0,Philadelphia 76ers
+3,4.5,13.77,2018.0,Philadelphia 76ers
+4,-9.4,11.02,2017.0,Philadelphia 76ers
+5,3.0,13.39,2016.0,Philadelphia 76ers
+6,0.8,11.8,2015.0,Philadelphia 76ers
+7,-19.7,9.83,2014.0,Philadelphia 76ers
+8,-23.0,9.9,2013.0,Philadelphia 76ers
+9,-6.4,10.74,2012.0,Philadelphia 76ers
+10,0.1,11.66,2011.0,Philadelphia 76ers
+11,0.1,11.27,2010.0,Philadelphia 76ers
+12,0.4,12.82,2009.0,Philadelphia 76ers
+13,6.3,13.83,2008.0,Philadelphia 76ers
+14,6.7,12.65,2007.0,Philadelphia 76ers
+15,-1.8,12.96,2006.0,Philadelphia 76ers
+16,0.0,11.42,2005.0,Philadelphia 76ers
+17,5.9,12.7,2004.0,Philadelphia 76ers
+18,7.3,12.9,2003.0,Philadelphia 76ers
+19,1.5,12.16,2002.0,Philadelphia 76ers
+20,-1.6,11.26,2001.0,Philadelphia 76ers
+21,-0.6,12.48,2000.0,Philadelphia 76ers
+22,3.0,13.39,1999.0,Philadelphia 76ers
+23,-14.9,9.77,1998.0,Philadelphia 76ers
+24,5.2,14.45,1997.0,Philadelphia 76ers
+25,5.1,12.63,1996.0,Philadelphia 76ers
+26,-0.5,11.3,1995.0,Philadelphia 76ers
+27,-12.5,8.93,1994.0,Philadelphia 76ers
+28,-3.9,11.42,1993.0,Philadelphia 76ers
+29,6.9,13.52,1992.0,Philadelphia 76ers
+30,2.7,11.14,1991.0,Philadelphia 76ers
+31,-5.0,11.16,1990.0,Philadelphia 76ers
+32,-20.4,9.9,1989.0,Philadelphia 76ers
+33,6.4,13.93,1988.0,Philadelphia 76ers
+34,6.7,11.89,1987.0,Philadelphia 76ers
+35,6.5,12.77,1986.0,Philadelphia 76ers
+36,-32.2,8.38,1985.0,Philadelphia 76ers
+37,3.1,12.89,1984.0,Philadelphia 76ers
+38,-19.5,9.4,1983.0,Philadelphia 76ers
+39,3.9,13.11,1982.0,Philadelphia 76ers
+0,-12.9,10.76,2021.0,Milwaukee Bucks
+1,-6.5,12.54,2020.0,Milwaukee Bucks
+2,8.1,13.98,2019.0,Milwaukee Bucks
+3,1.7,14.0,2018.0,Milwaukee Bucks
+4,-2.1,12.81,2017.0,Milwaukee Bucks
+5,-9.9,11.16,2016.0,Milwaukee Bucks
+6,4.2,11.56,2015.0,Milwaukee Bucks
+7,3.8,12.81,2014.0,Milwaukee Bucks
+8,7.6,14.68,2013.0,Milwaukee Bucks
+9,3.0,12.84,2012.0,Milwaukee Bucks
+10,-3.3,13.15,2011.0,Milwaukee Bucks
+11,0.0,12.16,2010.0,Milwaukee Bucks
+12,-6.3,11.16,2009.0,Milwaukee Bucks
+13,6.2,13.09,2008.0,Milwaukee Bucks
+14,8.7,12.93,2007.0,Milwaukee Bucks
+15,-20.7,10.58,2006.0,Milwaukee Bucks
+16,3.1,12.15,2005.0,Milwaukee Bucks
+17,1.9,12.73,2004.0,Milwaukee Bucks
+18,3.4,13.95,2003.0,Milwaukee Bucks
+19,7.9,14.09,2002.0,Milwaukee Bucks
+20,4.8,13.12,2001.0,Milwaukee Bucks
+21,1.7,12.45,2000.0,Milwaukee Bucks
+22,4.3,13.54,1999.0,Milwaukee Bucks
+23,-1.8,14.46,1998.0,Milwaukee Bucks
+24,5.4,12.29,1997.0,Milwaukee Bucks
+25,-19.9,9.48,1996.0,Milwaukee Bucks
+26,-2.7,11.29,1995.0,Milwaukee Bucks
+27,2.0,12.15,1994.0,Milwaukee Bucks
+28,2.0,11.99,1993.0,Milwaukee Bucks
+29,9.2,14.51,1992.0,Milwaukee Bucks
+30,6.9,13.99,1991.0,Milwaukee Bucks
+31,6.2,15.88,1990.0,Milwaukee Bucks
+32,-1.7,11.1,1989.0,Milwaukee Bucks
+33,3.6,13.34,1988.0,Milwaukee Bucks
+34,-4.0,9.79,1987.0,Milwaukee Bucks
+35,-2.4,12.18,1986.0,Milwaukee Bucks
+36,2.0,13.11,1985.0,Milwaukee Bucks
+37,-7.7,10.86,1984.0,Milwaukee Bucks
+38,6.7,14.12,1983.0,Milwaukee Bucks
+39,6.7,13.22,1982.0,Milwaukee Bucks
+0,-11.3,12.84,2021.0,Boston Celtics
+1,-1.0,13.43,2020.0,Boston Celtics
+2,4.3,14.81,2019.0,Boston Celtics
+3,8.5,18.33,2018.0,Boston Celtics
+4,-4.9,12.09,2017.0,Boston Celtics
+5,9.3,14.79,2016.0,Boston Celtics
+6,3.6,13.82,2015.0,Boston Celtics
+7,6.2,15.01,2014.0,Boston Celtics
+8,0.5,11.69,2013.0,Boston Celtics
+9,-30.2,10.08,2012.0,Boston Celtics
+10,6.7,12.29,2011.0,Boston Celtics
+11,2.2,11.85,2010.0,Boston Celtics
+12,-26.8,10.55,2009.0,Boston Celtics
+13,4.4,13.72,2008.0,Boston Celtics
+14,5.1,13.43,2007.0,Boston Celtics
+15,4.5,12.39,2006.0,Boston Celtics
+16,3.3,12.04,2005.0,Boston Celtics
+17,5.7,13.65,2004.0,Boston Celtics
+18,1.5,13.86,2003.0,Boston Celtics
+19,-3.1,9.35,2002.0,Boston Celtics
+20,2.8,12.06,2001.0,Boston Celtics
+21,3.2,11.22,2000.0,Boston Celtics
+22,-1.7,12.86,1999.0,Boston Celtics
+23,0.7,12.2,1998.0,Boston Celtics
+24,3.8,12.67,1997.0,Boston Celtics
+25,6.5,11.86,1996.0,Boston Celtics
+26,0.0,10.42,1995.0,Boston Celtics
+27,5.8,13.02,1994.0,Boston Celtics
+28,9.2,13.83,1993.0,Boston Celtics
+29,-4.7,13.32,1992.0,Boston Celtics
+30,-9.3,12.87,1991.0,Boston Celtics
+31,6.3,14.1,1990.0,Boston Celtics
+32,4.2,13.91,1989.0,Boston Celtics
+33,7.0,13.72,1988.0,Boston Celtics
+34,5.5,13.63,1987.0,Boston Celtics
+35,-7.1,10.43,1986.0,Boston Celtics
+36,-0.6,13.05,1985.0,Boston Celtics
+37,3.9,12.97,1984.0,Boston Celtics
+38,6.8,13.4,1983.0,Boston Celtics
+39,1.5,12.87,1982.0,Boston Celtics
+0,3.8,13.52,2021.0,Minnesota Timberwolves
+1,-12.4,12.02,2020.0,Minnesota Timberwolves
+2,-9.6,12.61,2019.0,Minnesota Timberwolves
+3,0.7,13.61,2018.0,Minnesota Timberwolves
+4,6.0,15.79,2017.0,Minnesota Timberwolves
+5,5.5,12.39,2016.0,Minnesota Timberwolves
+6,5.5,12.21,2015.0,Minnesota Timberwolves
+7,3.3,13.15,2014.0,Minnesota Timberwolves
+8,1.7,12.69,2013.0,Minnesota Timberwolves
+9,-15.2,11.63,2012.0,Minnesota Timberwolves
+10,8.0,13.21,2011.0,Minnesota Timberwolves
+11,4.9,12.08,2010.0,Minnesota Timberwolves
+12,5.4,11.64,2009.0,Minnesota Timberwolves
+13,-0.1,13.6,2008.0,Minnesota Timberwolves
+14,0.2,11.3,2007.0,Minnesota Timberwolves
+15,4.5,11.63,2006.0,Minnesota Timberwolves
+16,-6.7,11.33,2005.0,Minnesota Timberwolves
+17,6.9,13.84,2004.0,Minnesota Timberwolves
+18,4.1,12.34,2003.0,Minnesota Timberwolves
+19,8.4,14.34,2002.0,Minnesota Timberwolves
+20,5.4,12.85,2001.0,Minnesota Timberwolves
+21,-4.9,12.43,2000.0,Minnesota Timberwolves
+22,6.7,13.59,1999.0,Minnesota Timberwolves
+23,-14.3,9.99,1998.0,Minnesota Timberwolves
+24,-1.7,13.06,1997.0,Minnesota Timberwolves
+25,5.0,14.22,1996.0,Minnesota Timberwolves
+26,-2.2,11.5,1995.0,Minnesota Timberwolves
+27,1.8,11.06,1994.0,Minnesota Timberwolves
+28,6.1,12.34,1993.0,Minnesota Timberwolves
+29,-8.6,10.51,1992.0,Minnesota Timberwolves
+30,7.4,13.11,1991.0,Minnesota Timberwolves
+31,-0.5,12.37,1990.0,Minnesota Timberwolves
+32,-21.8,10.09,1989.0,Minnesota Timberwolves
+33,-0.5,12.37,1988.0,Minnesota Timberwolves
+34,-21.8,10.09,1987.0,Minnesota Timberwolves
+35,-0.5,12.37,1986.0,Minnesota Timberwolves
+36,-21.8,10.09,1985.0,Minnesota Timberwolves
+37,-0.5,12.37,1984.0,Minnesota Timberwolves
+38,-21.8,10.09,1983.0,Minnesota Timberwolves
+39,-0.5,12.37,1982.0,Minnesota Timberwolves
+0,11.09,-0.8,2021.0,Oklahoma City Thunder
+1,12.5,1.0,2020.0,Oklahoma City Thunder
+2,10.29,-7.7,2019.0,Oklahoma City Thunder
+3,6.13,-38.1,2018.0,Oklahoma City Thunder
+4,12.44,-5.0,2017.0,Oklahoma City Thunder
+5,12.39,5.4,2016.0,Oklahoma City Thunder
+6,13.14,6.0,2015.0,Oklahoma City Thunder
+7,12.01,-11.0,2014.0,Oklahoma City Thunder
+8,9.87,-16.5,2013.0,Oklahoma City Thunder
+9,13.37,7.0,2012.0,Oklahoma City Thunder
+10,12.96,3.1,2011.0,Oklahoma City Thunder
+11,11.74,1.7,2010.0,Oklahoma City Thunder
+12,12.59,-1.7,2009.0,Oklahoma City Thunder
+13,17.11,5.1,2008.0,Oklahoma City Thunder
+14,10.37,-18.9,2007.0,Oklahoma City Thunder
+15,11.39,-3.3,2006.0,Oklahoma City Thunder
+16,12.65,-1.1,2005.0,Oklahoma City Thunder
+17,12.05,-12.9,2004.0,Oklahoma City Thunder
+18,15.51,9.9,2003.0,Oklahoma City Thunder
+19,12.22,-2.0,2002.0,Oklahoma City Thunder
+20,13.78,7.8,2001.0,Oklahoma City Thunder
+21,14.66,2.4,2000.0,Oklahoma City Thunder
+22,11.41,1.0,1999.0,Oklahoma City Thunder
+23,13.32,4.5,1998.0,Oklahoma City Thunder
+24,12.92,2.2,1997.0,Oklahoma City Thunder
+25,13.86,-7.3,1996.0,Oklahoma City Thunder
+26,14.08,8.1,1995.0,Oklahoma City Thunder
+27,12.39,-19.8,1994.0,Oklahoma City Thunder
+28,17.06,11.9,1993.0,Oklahoma City Thunder
+29,15.36,8.7,1992.0,Oklahoma City Thunder
+30,13.33,3.2,1991.0,Oklahoma City Thunder
+31,15.21,9.4,1990.0,Oklahoma City Thunder
+32,14.04,9.9,1989.0,Oklahoma City Thunder
+33,10.27,-43.7,1988.0,Oklahoma City Thunder
+34,14.3,7.1,1987.0,Oklahoma City Thunder
+35,13.49,6.2,1986.0,Oklahoma City Thunder
+36,10.38,-5.9,1985.0,Oklahoma City Thunder
+37,10.51,0.5,1984.0,Oklahoma City Thunder
+38,12.58,0.5,1983.0,Oklahoma City Thunder
+39,14.66,9.7,1982.0,Oklahoma City Thunder
+0,13.32,6.8,2021.0,Oklahoma City Thunder
+1,12.67,4.0,2020.0,Oklahoma City Thunder
+2,12.16,-12.7,2019.0,Oklahoma City Thunder
+3,13.05,-15.8,2018.0,Oklahoma City Thunder
+4,9.05,-7.3,2017.0,Oklahoma City Thunder
+5,12.89,0.3,2016.0,Oklahoma City Thunder
+6,13.17,1.6,2015.0,Oklahoma City Thunder
+7,11.79,3.6,2014.0,Oklahoma City Thunder
+8,13.18,2.5,2013.0,Oklahoma City Thunder
+9,12.1,-6.1,2012.0,Oklahoma City Thunder
+10,13.16,3.8,2011.0,Oklahoma City Thunder
+11,12.42,-13.6,2010.0,Oklahoma City Thunder
+12,11.5,-2.4,2009.0,Oklahoma City Thunder
+13,13.59,7.4,2008.0,Oklahoma City Thunder
+14,15.93,-13.0,2007.0,Oklahoma City Thunder
+15,12.87,5.4,2006.0,Oklahoma City Thunder
+16,10.72,-2.1,2005.0,Oklahoma City Thunder
+17,9.21,-18.3,2004.0,Oklahoma City Thunder
+18,11.95,4.5,2003.0,Oklahoma City Thunder
+19,13.33,5.8,2002.0,Oklahoma City Thunder
+20,13.16,8.0,2001.0,Oklahoma City Thunder
+21,13.09,-6.2,2000.0,Oklahoma City Thunder
+22,14.26,5.2,1999.0,Oklahoma City Thunder
+23,18.73,0.4,1998.0,Oklahoma City Thunder
+24,14.13,7.7,1997.0,Oklahoma City Thunder
+25,13.52,3.0,1996.0,Oklahoma City Thunder
+26,12.93,1.5,1995.0,Oklahoma City Thunder
+27,13.04,2.6,1994.0,Oklahoma City Thunder
+28,12.72,2.2,1993.0,Oklahoma City Thunder
+29,11.96,-0.6,1992.0,Oklahoma City Thunder
+30,10.72,-0.4,1991.0,Oklahoma City Thunder
+31,13.41,8.2,1990.0,Oklahoma City Thunder
+32,12.41,2.6,1989.0,Oklahoma City Thunder
+33,11.68,4.7,1988.0,Oklahoma City Thunder
+34,14.19,10.4,1987.0,Oklahoma City Thunder
+35,13.02,0.2,1986.0,Oklahoma City Thunder
+36,13.65,3.2,1985.0,Oklahoma City Thunder
+37,13.28,6.4,1984.0,Oklahoma City Thunder
+38,13.2,8.2,1983.0,Oklahoma City Thunder
+39,11.89,6.4,1982.0,Oklahoma City Thunder
+0,12.74,3.7,2021.0,Portland Trail Blazers
+1,13.47,-0.9,2020.0,Portland Trail Blazers
+2,13.17,6.7,2019.0,Portland Trail Blazers
+3,13.51,1.3,2018.0,Portland Trail Blazers
+4,15.12,4.9,2017.0,Portland Trail Blazers
+5,13.54,4.9,2016.0,Portland Trail Blazers
+6,11.86,-2.7,2015.0,Portland Trail Blazers
+7,13.22,8.2,2014.0,Portland Trail Blazers
+8,12.61,2.1,2013.0,Portland Trail Blazers
+9,11.09,2.4,2012.0,Portland Trail Blazers
+10,14.24,6.0,2011.0,Portland Trail Blazers
+11,10.58,0.0,2010.0,Portland Trail Blazers
+12,13.3,-11.5,2009.0,Portland Trail Blazers
+13,13.19,-8.4,2008.0,Portland Trail Blazers
+14,12.96,4.7,2007.0,Portland Trail Blazers
+15,11.44,0.0,2006.0,Portland Trail Blazers
+16,12.46,6.2,2005.0,Portland Trail Blazers
+17,12.68,-0.2,2004.0,Portland Trail Blazers
+18,11.55,-20.4,2003.0,Portland Trail Blazers
+19,13.67,-1.7,2002.0,Portland Trail Blazers
+20,13.63,6.5,2001.0,Portland Trail Blazers
+21,15.44,9.8,2000.0,Portland Trail Blazers
+22,14.06,6.8,1999.0,Portland Trail Blazers
+23,16.41,-11.7,1998.0,Portland Trail Blazers
+24,10.06,-15.1,1997.0,Portland Trail Blazers
+25,12.64,5.0,1996.0,Portland Trail Blazers
+26,12.49,6.7,1995.0,Portland Trail Blazers
+27,14.31,5.4,1994.0,Portland Trail Blazers
+28,12.76,4.9,1993.0,Portland Trail Blazers
+29,12.79,1.7,1992.0,Portland Trail Blazers
+30,13.48,6.0,1991.0,Portland Trail Blazers
+31,14.52,8.3,1990.0,Portland Trail Blazers
+32,13.69,7.7,1989.0,Portland Trail Blazers
+33,11.51,-7.6,1988.0,Portland Trail Blazers
+34,11.28,-1.0,1987.0,Portland Trail Blazers
+35,14.52,-0.9,1986.0,Portland Trail Blazers
+36,13.15,-4.3,1985.0,Portland Trail Blazers
+37,14.29,6.9,1984.0,Portland Trail Blazers
+38,13.98,7.6,1983.0,Portland Trail Blazers
+39,13.24,5.0,1982.0,Portland Trail Blazers
